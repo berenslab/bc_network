@@ -1,0 +1,61 @@
+Running Model: LinearNonlinear()
+lr=0.33835917762877293, max_steps=8410,
+lowering learning rate to  0.16917958881438647
+lowering learning rate to  0.08458979440719323
+Step 100 (0.42s), Loss: Total=-0.7407280904054642, Trace=-0.7407280904054642, Speed_reg=0.00e+00, 
+lowering learning rate to  0.04229489720359662
+lowering learning rate to  0.02114744860179831
+lowering learning rate to  0.010573724300899154
+Step 200 (0.43s), Loss: Total=-0.746981418132782, Trace=-0.746981418132782, Speed_reg=0.00e+00, 
+Step 300 (0.44s), Loss: Total=-0.7488795763254166, Trace=-0.7488795763254166, Speed_reg=0.00e+00, 
+Step 400 (0.47s), Loss: Total=-0.7491861748695373, Trace=-0.7491861748695373, Speed_reg=0.00e+00, 
+Step 500 (0.44s), Loss: Total=-0.749408255815506, Trace=-0.749408255815506, Speed_reg=0.00e+00, 
+lowering learning rate to  0.005286862150449577
+Step 600 (0.43s), Loss: Total=-0.7492928600311279, Trace=-0.7492928600311279, Speed_reg=0.00e+00, 
+Step 700 (0.49s), Loss: Total=-0.749700790643692, Trace=-0.749700790643692, Speed_reg=0.00e+00, 
+Step 800 (0.47s), Loss: Total=-0.7498062145709992, Trace=-0.7498062145709992, Speed_reg=0.00e+00, 
+Step 900 (0.49s), Loss: Total=-0.7498951148986817, Trace=-0.7498951148986817, Speed_reg=0.00e+00, 
+lowering learning rate to  0.0026434310752247885
+Step 1000 (0.46s), Loss: Total=-0.7499683392047882, Trace=-0.7499683392047882, Speed_reg=0.00e+00, 
+Step 1100 (0.48s), Loss: Total=-0.7500139963626862, Trace=-0.7500139963626862, Speed_reg=0.00e+00, 
+Step 1200 (0.48s), Loss: Total=-0.7500425142049789, Trace=-0.7500425142049789, Speed_reg=0.00e+00, 
+Step 1300 (0.51s), Loss: Total=-0.7500676226615905, Trace=-0.7500676226615905, Speed_reg=0.00e+00, 
+Step 1400 (0.42s), Loss: Total=-0.7500885647535324, Trace=-0.7500885647535324, Speed_reg=0.00e+00, 
+lowering learning rate to  0.0013217155376123943
+Step 1500 (0.41s), Loss: Total=-0.7501030296087265, Trace=-0.7501030296087265, Speed_reg=0.00e+00, 
+Step 1600 (0.41s), Loss: Total=-0.750113855600357, Trace=-0.750113855600357, Speed_reg=0.00e+00, 
+Step 1700 (0.42s), Loss: Total=-0.7501234406232834, Trace=-0.7501234406232834, Speed_reg=0.00e+00, 
+Step 1800 (0.42s), Loss: Total=-0.7501323008537293, Trace=-0.7501323008537293, Speed_reg=0.00e+00, 
+lowering learning rate to  0.0006608577688061971
+Step 1900 (0.42s), Loss: Total=-0.7501394909620285, Trace=-0.7501394909620285, Speed_reg=0.00e+00, 
+Step 2000 (0.46s), Loss: Total=-0.7501441347599029, Trace=-0.7501441347599029, Speed_reg=0.00e+00, 
+Step 2100 (0.42s), Loss: Total=-0.7501481860876084, Trace=-0.7501481860876084, Speed_reg=0.00e+00, 
+Step 2200 (0.44s), Loss: Total=-0.7501521158218384, Trace=-0.7501521158218384, Speed_reg=0.00e+00, 
+Step 2300 (0.42s), Loss: Total=-0.7501559609174728, Trace=-0.7501559609174728, Speed_reg=0.00e+00, 
+Step 2400 (0.44s), Loss: Total=-0.7501597219705581, Trace=-0.7501597219705581, Speed_reg=0.00e+00, 
+Step 2500 (0.43s), Loss: Total=-0.7501633554697037, Trace=-0.7501633554697037, Speed_reg=0.00e+00, 
+Step 2600 (0.43s), Loss: Total=-0.7501666849851608, Trace=-0.7501666849851608, Speed_reg=0.00e+00, 
+lowering learning rate to  0.00033042888440309857
+Step 2700 (0.43s), Loss: Total=-0.7501690375804901, Trace=-0.7501690375804901, Speed_reg=0.00e+00, 
+Step 2800 (0.43s), Loss: Total=-0.7501707315444947, Trace=-0.7501707315444947, Speed_reg=0.00e+00, 
+Step 2900 (0.43s), Loss: Total=-0.7501724034547805, Trace=-0.7501724034547805, Speed_reg=0.00e+00, 
+Step 3000 (0.43s), Loss: Total=-0.750174201130867, Trace=-0.750174201130867, Speed_reg=0.00e+00, 
+lowering learning rate to  0.00016521444220154928
+Step 3100 (0.46s), Loss: Total=-0.7501757824420929, Trace=-0.7501757824420929, Speed_reg=0.00e+00, 
+lowering learning rate to  8.260722110077464e-05
+lowering learning rate to  4.130361055038732e-05
+lowering learning rate to  2.065180527519366e-05
+Step 3200 (0.42s), Loss: Total=-0.7501765429973603, Trace=-0.7501765429973603, Speed_reg=0.00e+00, 
+lowering learning rate to  1.032590263759683e-05
+lowering learning rate to  5.162951318798415e-06
+lowering learning rate to  2.5814756593992076e-06
+Step 3300 (0.46s), Loss: Total=-0.7501767301559448, Trace=-0.7501767301559448, Speed_reg=0.00e+00, 
+Step 3400 (0.44s), Loss: Total=-0.7501768195629119, Trace=-0.7501768195629119, Speed_reg=0.00e+00, 
+Step 3500 (0.48s), Loss: Total=-0.7501768338680267, Trace=-0.7501768338680267, Speed_reg=0.00e+00, 
+Step 3600 (0.46s), Loss: Total=-0.750176842212677, Trace=-0.750176842212677, Speed_reg=0.00e+00, 
+lowering learning rate to  1.2907378296996038e-06
+Step 3700 (0.48s), Loss: Total=-0.7501768237352371, Trace=-0.7501768237352371, Speed_reg=0.00e+00, 
+Step 3800 (0.48s), Loss: Total=-0.7501768469810486, Trace=-0.7501768469810486, Speed_reg=0.00e+00, 
+Step 3900 (0.47s), Loss: Total=-0.7501768469810486, Trace=-0.7501768469810486, Speed_reg=0.00e+00, 
+Step 4000 (0.46s), Loss: Total=-0.7501768469810486, Trace=-0.7501768469810486, Speed_reg=0.00e+00, 
+Converged.

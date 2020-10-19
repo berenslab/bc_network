@@ -1,0 +1,600 @@
+Iteration: 0. mean Loss of last 100 steps: nan.
+  .... current loss: -0.014031444676220417
+Iteration: 100. mean Loss of last 100 steps: -0.7672189474105835.
+  .... current loss: -0.9082387685775757
+Iteration: 200. mean Loss of last 100 steps: -0.9213641881942749.
+  .... current loss: -0.9324843287467957
+Iteration: 300. mean Loss of last 100 steps: -0.9369277954101562.
+  .... current loss: -0.9440600872039795
+Iteration: 400. mean Loss of last 100 steps: -0.954075038433075.
+  .... current loss: -0.9596376419067383
+Iteration: 500. mean Loss of last 100 steps: -0.9605969190597534.
+  .... current loss: -0.9671525955200195
+Iteration: 600. mean Loss of last 100 steps: -0.9671040177345276.
+  .... current loss: -0.9692381024360657
+Iteration: 700. mean Loss of last 100 steps: -0.9692555069923401.
+  .... current loss: -0.9691809415817261
+Iteration: 800. mean Loss of last 100 steps: -0.9714336395263672.
+  .... current loss: -0.9718519449234009
+Iteration: 900. mean Loss of last 100 steps: -0.973092794418335.
+  .... current loss: -0.9738419055938721
+Iteration: 1000. mean Loss of last 100 steps: -0.9757452607154846.
+  .... current loss: -0.9781889915466309
+Iteration: 1100. mean Loss of last 100 steps: -0.978047251701355.
+  .... current loss: -0.9811823964118958
+Iteration: 1200. mean Loss of last 100 steps: -0.9800786375999451.
+  .... current loss: -0.9823557138442993
+Iteration: 1300. mean Loss of last 100 steps: -0.982177734375.
+  .... current loss: -0.9838264584541321
+Iteration: 1400. mean Loss of last 100 steps: -0.9836110472679138.
+  .... current loss: -0.9842583537101746
+Iteration: 1500. mean Loss of last 100 steps: -0.9844098091125488.
+  .... current loss: -0.9815506935119629
+Iteration: 1600. mean Loss of last 100 steps: -0.985370934009552.
+  .... current loss: -0.986028790473938
+iteration: 1613. lowering learning rate to 1.4660291061398385. 
+Iteration: 1700. mean Loss of last 100 steps: -0.9869681000709534.
+  .... current loss: -0.9874895811080933
+Iteration: 1800. mean Loss of last 100 steps: -0.9874386787414551.
+  .... current loss: -0.9875551462173462
+Iteration: 1900. mean Loss of last 100 steps: -0.987691342830658.
+  .... current loss: -0.9878029823303223
+Iteration: 2000. mean Loss of last 100 steps: -0.9879071116447449.
+  .... current loss: -0.9881008863449097
+Iteration: 2100. mean Loss of last 100 steps: -0.9881251454353333.
+  .... current loss: -0.9882088899612427
+Iteration: 2200. mean Loss of last 100 steps: -0.9883368611335754.
+  .... current loss: -0.9883707761764526
+Iteration: 2300. mean Loss of last 100 steps: -0.9885388016700745.
+  .... current loss: -0.9885737299919128
+Iteration: 2400. mean Loss of last 100 steps: -0.988728940486908.
+  .... current loss: -0.9887635111808777
+Iteration: 2500. mean Loss of last 100 steps: -0.9889065027236938.
+  .... current loss: -0.9889395833015442
+Iteration: 2600. mean Loss of last 100 steps: -0.9890716671943665.
+  .... current loss: -0.9891025424003601
+Iteration: 2700. mean Loss of last 100 steps: -0.9892248511314392.
+  .... current loss: -0.9892533421516418
+Iteration: 2800. mean Loss of last 100 steps: -0.9893673658370972.
+  .... current loss: -0.9893943071365356
+Iteration: 2900. mean Loss of last 100 steps: -0.9894475340843201.
+  .... current loss: -0.9893225431442261
+Iteration: 3000. mean Loss of last 100 steps: -0.9895876049995422.
+  .... current loss: -0.9896098375320435
+Iteration: 3100. mean Loss of last 100 steps: -0.989657998085022.
+  .... current loss: -0.9897543787956238
+Iteration: 3200. mean Loss of last 100 steps: -0.9897956252098083.
+  .... current loss: -0.989783763885498
+Iteration: 3300. mean Loss of last 100 steps: -0.9898955821990967.
+  .... current loss: -0.989894688129425
+Iteration: 3400. mean Loss of last 100 steps: -0.9899870157241821.
+  .... current loss: -0.9899933934211731
+Iteration: 3500. mean Loss of last 100 steps: -0.9900789856910706.
+  .... current loss: -0.9901132583618164
+Iteration: 3600. mean Loss of last 100 steps: -0.9901639819145203.
+  .... current loss: -0.9901391863822937
+Iteration: 3700. mean Loss of last 100 steps: -0.9902384281158447.
+  .... current loss: -0.9903008341789246
+Iteration: 3800. mean Loss of last 100 steps: -0.9902734160423279.
+  .... current loss: -0.9903433322906494
+iteration: 3888. lowering learning rate to 0.7330145530699193. 
+Iteration: 3900. mean Loss of last 100 steps: -0.9904029965400696.
+  .... current loss: -0.9907596111297607
+Iteration: 4000. mean Loss of last 100 steps: -0.9907904267311096.
+  .... current loss: -0.9908172488212585
+Iteration: 4100. mean Loss of last 100 steps: -0.9908403754234314.
+  .... current loss: -0.9908634424209595
+Iteration: 4200. mean Loss of last 100 steps: -0.9908848404884338.
+  .... current loss: -0.9909060597419739
+Iteration: 4300. mean Loss of last 100 steps: -0.9909263849258423.
+  .... current loss: -0.9909468293190002
+Iteration: 4400. mean Loss of last 100 steps: -0.9909662008285522.
+  .... current loss: -0.9909859299659729
+Iteration: 4500. mean Loss of last 100 steps: -0.9910046458244324.
+  .... current loss: -0.9910236597061157
+Iteration: 4600. mean Loss of last 100 steps: -0.991041898727417.
+  .... current loss: -0.9910603165626526
+Iteration: 4700. mean Loss of last 100 steps: -0.9910780191421509.
+  .... current loss: -0.9910957217216492
+Iteration: 4800. mean Loss of last 100 steps: -0.9911128878593445.
+  .... current loss: -0.9911303520202637
+Iteration: 4900. mean Loss of last 100 steps: -0.9911471605300903.
+  .... current loss: -0.991163969039917
+Iteration: 5000. mean Loss of last 100 steps: -0.9911802411079407.
+  .... current loss: -0.9911966919898987
+Iteration: 5100. mean Loss of last 100 steps: -0.9912125468254089.
+  .... current loss: -0.9912286996841431
+Iteration: 5200. mean Loss of last 100 steps: -0.9912441372871399.
+  .... current loss: -0.9912598729133606
+Iteration: 5300. mean Loss of last 100 steps: -0.9912750124931335.
+  .... current loss: -0.9912904500961304
+Iteration: 5400. mean Loss of last 100 steps: -0.9913051724433899.
+  .... current loss: -0.9913202524185181
+Iteration: 5500. mean Loss of last 100 steps: -0.9913347363471985.
+  .... current loss: -0.9913493990898132
+Iteration: 5600. mean Loss of last 100 steps: -0.9913635849952698.
+  .... current loss: -0.9913762807846069
+iteration: 5657. lowering learning rate to 0.3665072765349596. 
+Iteration: 5700. mean Loss of last 100 steps: -0.9913424849510193.
+  .... current loss: -0.9913837909698486
+Iteration: 5800. mean Loss of last 100 steps: -0.9913905262947083.
+  .... current loss: -0.9913977384567261
+Iteration: 5900. mean Loss of last 100 steps: -0.9914045929908752.
+  .... current loss: -0.9914115071296692
+Iteration: 6000. mean Loss of last 100 steps: -0.9914183020591736.
+  .... current loss: -0.9914252161979675
+Iteration: 6100. mean Loss of last 100 steps: -0.9914320111274719.
+  .... current loss: -0.9914387464523315
+Iteration: 6200. mean Loss of last 100 steps: -0.9914454817771912.
+  .... current loss: -0.9914520978927612
+Iteration: 6300. mean Loss of last 100 steps: -0.9914585947990417.
+  .... current loss: -0.9914653301239014
+Iteration: 6400. mean Loss of last 100 steps: -0.9914717078208923.
+  .... current loss: -0.9914783239364624
+Iteration: 6500. mean Loss of last 100 steps: -0.9914848804473877.
+  .... current loss: -0.9914911985397339
+Iteration: 6600. mean Loss of last 100 steps: -0.9914975166320801.
+  .... current loss: -0.9915040731430054
+Iteration: 6700. mean Loss of last 100 steps: -0.9915103316307068.
+  .... current loss: -0.9915167093276978
+Iteration: 6800. mean Loss of last 100 steps: -0.9915229678153992.
+  .... current loss: -0.9915292263031006
+Iteration: 6900. mean Loss of last 100 steps: -0.9915353655815125.
+  .... current loss: -0.9915416240692139
+Iteration: 7000. mean Loss of last 100 steps: -0.991547703742981.
+  .... current loss: -0.9915538430213928
+Iteration: 7100. mean Loss of last 100 steps: -0.9915599226951599.
+  .... current loss: -0.991566002368927
+Iteration: 7200. mean Loss of last 100 steps: -0.9915719032287598.
+  .... current loss: -0.9915779232978821
+Iteration: 7300. mean Loss of last 100 steps: -0.9915839433670044.
+  .... current loss: -0.9915898442268372
+Iteration: 7400. mean Loss of last 100 steps: -0.9915956258773804.
+  .... current loss: -0.9916015863418579
+Iteration: 7500. mean Loss of last 100 steps: -0.9916073679924011.
+  .... current loss: -0.9916131496429443
+Iteration: 7600. mean Loss of last 100 steps: -0.991618812084198.
+  .... current loss: -0.9916245937347412
+Iteration: 7700. mean Loss of last 100 steps: -0.9916303753852844.
+  .... current loss: -0.9916359782218933
+Iteration: 7800. mean Loss of last 100 steps: -0.9916415214538574.
+  .... current loss: -0.9916472434997559
+Iteration: 7900. mean Loss of last 100 steps: -0.9916528463363647.
+  .... current loss: -0.9916583299636841
+Iteration: 8000. mean Loss of last 100 steps: -0.9916638135910034.
+  .... current loss: -0.9916692972183228
+Iteration: 8100. mean Loss of last 100 steps: -0.9916746616363525.
+  .... current loss: -0.9916802048683167
+Iteration: 8200. mean Loss of last 100 steps: -0.9916855692863464.
+  .... current loss: -0.9916909337043762
+Iteration: 8300. mean Loss of last 100 steps: -0.9916961789131165.
+  .... current loss: -0.991701602935791
+Iteration: 8400. mean Loss of last 100 steps: -0.991706907749176.
+  .... current loss: -0.9917121529579163
+Iteration: 8500. mean Loss of last 100 steps: -0.9917172789573669.
+  .... current loss: -0.991722583770752
+Iteration: 8600. mean Loss of last 100 steps: -0.9917275309562683.
+  .... current loss: -0.9917328357696533
+Iteration: 8700. mean Loss of last 100 steps: -0.9917380809783936.
+  .... current loss: -0.9917431473731995
+Iteration: 8800. mean Loss of last 100 steps: -0.991748034954071.
+  .... current loss: -0.9917532205581665
+Iteration: 8900. mean Loss of last 100 steps: -0.9917581081390381.
+  .... current loss: -0.9917632341384888
+Iteration: 9000. mean Loss of last 100 steps: -0.9917681813240051.
+  .... current loss: -0.9917731285095215
+Iteration: 9100. mean Loss of last 100 steps: -0.9917779564857483.
+  .... current loss: -0.9917829036712646
+Iteration: 9200. mean Loss of last 100 steps: -0.9917877316474915.
+  .... current loss: -0.9917925596237183
+Iteration: 9300. mean Loss of last 100 steps: -0.9917972683906555.
+  .... current loss: -0.9918022751808167
+Iteration: 9400. mean Loss of last 100 steps: -0.9918071031570435.
+  .... current loss: -0.9918118119239807
+Iteration: 9500. mean Loss of last 100 steps: -0.9918164610862732.
+  .... current loss: -0.9918211698532104
+Iteration: 9600. mean Loss of last 100 steps: -0.9918258190155029.
+  .... current loss: -0.991830587387085
+Iteration: 9700. mean Loss of last 100 steps: -0.9918349981307983.
+  .... current loss: -0.9918397665023804
+Iteration: 9800. mean Loss of last 100 steps: -0.9918444752693176.
+  .... current loss: -0.9918490052223206
+Iteration: 9900. mean Loss of last 100 steps: -0.9918535351753235.
+  .... current loss: -0.9918581247329712
+Iteration: 10000. mean Loss of last 100 steps: -0.9918624758720398.
+  .... current loss: -0.9918671250343323
+Iteration: 10100. mean Loss of last 100 steps: -0.9918714761734009.
+  .... current loss: -0.991875946521759
+Iteration: 10200. mean Loss of last 100 steps: -0.9918803572654724.
+  .... current loss: -0.9918848276138306
+Iteration: 10300. mean Loss of last 100 steps: -0.9918890595436096.
+  .... current loss: -0.9918936491012573
+Iteration: 10400. mean Loss of last 100 steps: -0.9918981194496155.
+  .... current loss: -0.9919024109840393
+Iteration: 10500. mean Loss of last 100 steps: -0.9919067621231079.
+  .... current loss: -0.991910994052887
+Iteration: 10600. mean Loss of last 100 steps: -0.9919152855873108.
+  .... current loss: -0.9919195771217346
+Iteration: 10700. mean Loss of last 100 steps: -0.9919237494468689.
+  .... current loss: -0.9919281005859375
+Iteration: 10800. mean Loss of last 100 steps: -0.991932213306427.
+  .... current loss: -0.991936445236206
+Iteration: 10900. mean Loss of last 100 steps: -0.9919406175613403.
+  .... current loss: -0.9919448494911194
+Iteration: 11000. mean Loss of last 100 steps: -0.9919488430023193.
+  .... current loss: -0.9919531345367432
+Iteration: 11100. mean Loss of last 100 steps: -0.9919570684432983.
+  .... current loss: -0.9919613003730774
+Iteration: 11200. mean Loss of last 100 steps: -0.9919652342796326.
+  .... current loss: -0.9919694662094116
+Iteration: 11300. mean Loss of last 100 steps: -0.9919734001159668.
+  .... current loss: -0.9919775724411011
+Iteration: 11400. mean Loss of last 100 steps: -0.9919817447662354.
+  .... current loss: -0.9919856786727905
+Iteration: 11500. mean Loss of last 100 steps: -0.9919897317886353.
+  .... current loss: -0.9919936656951904
+Iteration: 11600. mean Loss of last 100 steps: -0.9919976592063904.
+  .... current loss: -0.9920015931129456
+Iteration: 11700. mean Loss of last 100 steps: -0.9920055866241455.
+  .... current loss: -0.9920094609260559
+Iteration: 11800. mean Loss of last 100 steps: -0.9920133948326111.
+  .... current loss: -0.9920172691345215
+Iteration: 11900. mean Loss of last 100 steps: -0.9920212626457214.
+  .... current loss: -0.9920250177383423
+Iteration: 12000. mean Loss of last 100 steps: -0.9920289516448975.
+  .... current loss: -0.9920327663421631
+Iteration: 12100. mean Loss of last 100 steps: -0.9920366406440735.
+  .... current loss: -0.9920403957366943
+Iteration: 12200. mean Loss of last 100 steps: -0.9920442700386047.
+  .... current loss: -0.9920480251312256
+Iteration: 12300. mean Loss of last 100 steps: -0.9920518398284912.
+  .... current loss: -0.9920556545257568
+Iteration: 12400. mean Loss of last 100 steps: -0.9920594692230225.
+  .... current loss: -0.9920631647109985
+Iteration: 12500. mean Loss of last 100 steps: -0.9920668601989746.
+  .... current loss: -0.9920705556869507
+Iteration: 12600. mean Loss of last 100 steps: -0.9920743703842163.
+  .... current loss: -0.9920780062675476
+Iteration: 12700. mean Loss of last 100 steps: -0.9920817613601685.
+  .... current loss: -0.992085337638855
+Iteration: 12800. mean Loss of last 100 steps: -0.9920890927314758.
+  .... current loss: -0.9920927286148071
+Iteration: 12900. mean Loss of last 100 steps: -0.9920964241027832.
+  .... current loss: -0.9921000003814697
+Iteration: 13000. mean Loss of last 100 steps: -0.9921033978462219.
+  .... current loss: -0.9921072721481323
+Iteration: 13100. mean Loss of last 100 steps: -0.9921106696128845.
+  .... current loss: -0.9921143651008606
+Iteration: 13200. mean Loss of last 100 steps: -0.9921178221702576.
+  .... current loss: -0.9921215772628784
+Iteration: 13300. mean Loss of last 100 steps: -0.9921250343322754.
+  .... current loss: -0.9921286702156067
+Iteration: 13400. mean Loss of last 100 steps: -0.9921321272850037.
+  .... current loss: -0.992135763168335
+Iteration: 13500. mean Loss of last 100 steps: -0.9921392202377319.
+  .... current loss: -0.9921427965164185
+Iteration: 13600. mean Loss of last 100 steps: -0.9921463131904602.
+  .... current loss: -0.992149829864502
+Iteration: 13700. mean Loss of last 100 steps: -0.9921532273292542.
+  .... current loss: -0.9921567440032959
+Iteration: 13800. mean Loss of last 100 steps: -0.9921602010726929.
+  .... current loss: -0.9921636581420898
+Iteration: 13900. mean Loss of last 100 steps: -0.9921671152114868.
+  .... current loss: -0.992170512676239
+Iteration: 14000. mean Loss of last 100 steps: -0.9921740889549255.
+  .... current loss: -0.9921773672103882
+Iteration: 14100. mean Loss of last 100 steps: -0.9921809434890747.
+  .... current loss: -0.9921842217445374
+Iteration: 14200. mean Loss of last 100 steps: -0.9921875.
+  .... current loss: -0.992190957069397
+Iteration: 14300. mean Loss of last 100 steps: -0.9921942353248596.
+  .... current loss: -0.9921977519989014
+Iteration: 14400. mean Loss of last 100 steps: -0.9922009110450745.
+  .... current loss: -0.9922044277191162
+Iteration: 14500. mean Loss of last 100 steps: -0.9922076463699341.
+  .... current loss: -0.992211103439331
+Iteration: 14600. mean Loss of last 100 steps: -0.9922143816947937.
+  .... current loss: -0.9922177195549011
+Iteration: 14700. mean Loss of last 100 steps: -0.9922210574150085.
+  .... current loss: -0.9922243356704712
+Iteration: 14800. mean Loss of last 100 steps: -0.9922276139259338.
+  .... current loss: -0.9922306537628174
+iteration: 14874. lowering learning rate to 0.1832536382674798. 
+Iteration: 14900. mean Loss of last 100 steps: -0.9922247529029846.
+  .... current loss: -0.9922327995300293
+Iteration: 15000. mean Loss of last 100 steps: -0.9922342896461487.
+  .... current loss: -0.9922360181808472
+Iteration: 15100. mean Loss of last 100 steps: -0.9922376871109009.
+  .... current loss: -0.9922392964363098
+Iteration: 15200. mean Loss of last 100 steps: -0.9922409057617188.
+  .... current loss: -0.9922425746917725
+Iteration: 15300. mean Loss of last 100 steps: -0.9922443628311157.
+  .... current loss: -0.9922457933425903
+Iteration: 15400. mean Loss of last 100 steps: -0.9922474026679993.
+  .... current loss: -0.992249071598053
+Iteration: 15500. mean Loss of last 100 steps: -0.9922505021095276.
+  .... current loss: -0.9922522306442261
+Iteration: 15600. mean Loss of last 100 steps: -0.9922538995742798.
+  .... current loss: -0.992255449295044
+Iteration: 15700. mean Loss of last 100 steps: -0.9922569990158081.
+  .... current loss: -0.9922586679458618
+Iteration: 15800. mean Loss of last 100 steps: -0.9922603368759155.
+  .... current loss: -0.9922619462013245
+Iteration: 15900. mean Loss of last 100 steps: -0.9922634363174438.
+  .... current loss: -0.9922650456428528
+Iteration: 16000. mean Loss of last 100 steps: -0.992266833782196.
+  .... current loss: -0.9922683238983154
+Iteration: 16100. mean Loss of last 100 steps: -0.9922698140144348.
+  .... current loss: -0.9922714829444885
+Iteration: 16200. mean Loss of last 100 steps: -0.9922728538513184.
+  .... current loss: -0.9922746419906616
+Iteration: 16300. mean Loss of last 100 steps: -0.9922763109207153.
+  .... current loss: -0.9922778010368347
+Iteration: 16400. mean Loss of last 100 steps: -0.9922792911529541.
+  .... current loss: -0.9922810196876526
+Iteration: 16500. mean Loss of last 100 steps: -0.9922826290130615.
+  .... current loss: -0.9922841191291809
+Iteration: 16600. mean Loss of last 100 steps: -0.9922856688499451.
+  .... current loss: -0.9922873377799988
+Iteration: 16700. mean Loss of last 100 steps: -0.9922886490821838.
+  .... current loss: -0.9922903776168823
+Iteration: 16800. mean Loss of last 100 steps: -0.992292046546936.
+  .... current loss: -0.9922935366630554
+Iteration: 16900. mean Loss of last 100 steps: -0.9922950267791748.
+  .... current loss: -0.9922966957092285
+Iteration: 17000. mean Loss of last 100 steps: -0.9922983050346375.
+  .... current loss: -0.9922997951507568
+Iteration: 17100. mean Loss of last 100 steps: -0.9923012256622314.
+  .... current loss: -0.9923029541969299
+Iteration: 17200. mean Loss of last 100 steps: -0.9923046231269836.
+  .... current loss: -0.9923059940338135
+Iteration: 17300. mean Loss of last 100 steps: -0.9923076033592224.
+  .... current loss: -0.9923091530799866
+Iteration: 17400. mean Loss of last 100 steps: -0.9923104643821716.
+  .... current loss: -0.9923121929168701
+Iteration: 17500. mean Loss of last 100 steps: -0.9923138618469238.
+  .... current loss: -0.9923153519630432
+Iteration: 17600. mean Loss of last 100 steps: -0.9923168420791626.
+  .... current loss: -0.992318332195282
+Iteration: 17700. mean Loss of last 100 steps: -0.9923200011253357.
+  .... current loss: -0.9923214912414551
+Iteration: 17800. mean Loss of last 100 steps: -0.9923229813575745.
+  .... current loss: -0.9923245310783386
+Iteration: 17900. mean Loss of last 100 steps: -0.9923259019851685.
+  .... current loss: -0.9923275709152222
+Iteration: 18000. mean Loss of last 100 steps: -0.9923291802406311.
+  .... current loss: -0.9923306107521057
+Iteration: 18100. mean Loss of last 100 steps: -0.9923321008682251.
+  .... current loss: -0.992333710193634
+Iteration: 18200. mean Loss of last 100 steps: -0.9923353791236877.
+  .... current loss: -0.9923367500305176
+Iteration: 18300. mean Loss of last 100 steps: -0.992338240146637.
+  .... current loss: -0.9923397302627563
+Iteration: 18400. mean Loss of last 100 steps: -0.9923411011695862.
+  .... current loss: -0.9923427700996399
+Iteration: 18500. mean Loss of last 100 steps: -0.9923443794250488.
+  .... current loss: -0.9923458695411682
+Iteration: 18600. mean Loss of last 100 steps: -0.992347240447998.
+  .... current loss: -0.9923487901687622
+Iteration: 18700. mean Loss of last 100 steps: -0.9923504590988159.
+  .... current loss: -0.9923518300056458
+Iteration: 18800. mean Loss of last 100 steps: -0.9923533797264099.
+  .... current loss: -0.9923548698425293
+Iteration: 18900. mean Loss of last 100 steps: -0.9923561811447144.
+  .... current loss: -0.9923578500747681
+Iteration: 19000. mean Loss of last 100 steps: -0.9923593997955322.
+  .... current loss: -0.9923608303070068
+Iteration: 19100. mean Loss of last 100 steps: -0.9923622012138367.
+  .... current loss: -0.9923638105392456
+Iteration: 19200. mean Loss of last 100 steps: -0.9923652410507202.
+  .... current loss: -0.9923668503761292
+Iteration: 19300. mean Loss of last 100 steps: -0.9923683404922485.
+  .... current loss: -0.9923698306083679
+Iteration: 19400. mean Loss of last 100 steps: -0.9923712015151978.
+  .... current loss: -0.9923726916313171
+Iteration: 19500. mean Loss of last 100 steps: -0.9923743605613708.
+  .... current loss: -0.9923756718635559
+Iteration: 19600. mean Loss of last 100 steps: -0.9923771619796753.
+  .... current loss: -0.9923787117004395
+Iteration: 19700. mean Loss of last 100 steps: -0.9923800826072693.
+  .... current loss: -0.9923816919326782
+Iteration: 19800. mean Loss of last 100 steps: -0.9923831224441528.
+  .... current loss: -0.9923845529556274
+Iteration: 19900. mean Loss of last 100 steps: -0.9923859238624573.
+  .... current loss: -0.9923875331878662
+Iteration: 20000. mean Loss of last 100 steps: -0.9923890829086304.
+  .... current loss: -0.992390513420105
+Iteration: 20100. mean Loss of last 100 steps: -0.9923918843269348.
+  .... current loss: -0.9923933744430542
+Iteration: 20200. mean Loss of last 100 steps: -0.9923946857452393.
+  .... current loss: -0.9923962354660034
+Iteration: 20300. mean Loss of last 100 steps: -0.9923978447914124.
+  .... current loss: -0.992399275302887
+Iteration: 20400. mean Loss of last 100 steps: -0.9924006462097168.
+  .... current loss: -0.9924021363258362
+Iteration: 20500. mean Loss of last 100 steps: -0.9924038052558899.
+  .... current loss: -0.9924050569534302
+Iteration: 20600. mean Loss of last 100 steps: -0.9924065470695496.
+  .... current loss: -0.9924079775810242
+Iteration: 20700. mean Loss of last 100 steps: -0.992409348487854.
+  .... current loss: -0.9924108386039734
+Iteration: 20800. mean Loss of last 100 steps: -0.9924123883247375.
+  .... current loss: -0.9924137592315674
+Iteration: 20900. mean Loss of last 100 steps: -0.992415189743042.
+  .... current loss: -0.9924166202545166
+Iteration: 21000. mean Loss of last 100 steps: -0.9924179911613464.
+  .... current loss: -0.9924194812774658
+Iteration: 21100. mean Loss of last 100 steps: -0.99242103099823.
+  .... current loss: -0.9924224019050598
+Iteration: 21200. mean Loss of last 100 steps: -0.9924237728118896.
+  .... current loss: -0.992425262928009
+Iteration: 21300. mean Loss of last 100 steps: -0.9924268126487732.
+  .... current loss: -0.9924281239509583
+Iteration: 21400. mean Loss of last 100 steps: -0.9924295544624329.
+  .... current loss: -0.9924309849739075
+Iteration: 21500. mean Loss of last 100 steps: -0.9924324154853821.
+  .... current loss: -0.9924338459968567
+Iteration: 21600. mean Loss of last 100 steps: -0.9924353957176208.
+  .... current loss: -0.9924367070198059
+Iteration: 21700. mean Loss of last 100 steps: -0.9924381375312805.
+  .... current loss: -0.9924395680427551
+Iteration: 21800. mean Loss of last 100 steps: -0.9924408793449402.
+  .... current loss: -0.9924423694610596
+Iteration: 21900. mean Loss of last 100 steps: -0.9924439191818237.
+  .... current loss: -0.9924452900886536
+Iteration: 22000. mean Loss of last 100 steps: -0.9924466609954834.
+  .... current loss: -0.992448091506958
+Iteration: 22100. mean Loss of last 100 steps: -0.9924496412277222.
+  .... current loss: -0.9924508929252625
+Iteration: 22200. mean Loss of last 100 steps: -0.9924523830413818.
+  .... current loss: -0.9924537539482117
+Iteration: 22300. mean Loss of last 100 steps: -0.9924551248550415.
+  .... current loss: -0.9924566149711609
+Iteration: 22400. mean Loss of last 100 steps: -0.9924581050872803.
+  .... current loss: -0.9924594163894653
+Iteration: 22500. mean Loss of last 100 steps: -0.9924608469009399.
+  .... current loss: -0.9924622178077698
+Iteration: 22600. mean Loss of last 100 steps: -0.9924635291099548.
+  .... current loss: -0.9924650192260742
+Iteration: 22700. mean Loss of last 100 steps: -0.9924665093421936.
+  .... current loss: -0.9924677610397339
+Iteration: 22800. mean Loss of last 100 steps: -0.992469072341919.
+  .... current loss: -0.9924706220626831
+Iteration: 22900. mean Loss of last 100 steps: -0.9924718737602234.
+  .... current loss: -0.9924734234809875
+Iteration: 23000. mean Loss of last 100 steps: -0.9924747943878174.
+  .... current loss: -0.9924761652946472
+Iteration: 23100. mean Loss of last 100 steps: -0.9924774765968323.
+  .... current loss: -0.9924789667129517
+Iteration: 23200. mean Loss of last 100 steps: -0.992480456829071.
+  .... current loss: -0.9924817681312561
+Iteration: 23300. mean Loss of last 100 steps: -0.9924831986427307.
+  .... current loss: -0.9924845695495605
+Iteration: 23400. mean Loss of last 100 steps: -0.9924858212471008.
+  .... current loss: -0.9924873113632202
+Iteration: 23500. mean Loss of last 100 steps: -0.9924888610839844.
+  .... current loss: -0.9924901127815247
+Iteration: 23600. mean Loss of last 100 steps: -0.9924914836883545.
+  .... current loss: -0.9924928545951843
+Iteration: 23700. mean Loss of last 100 steps: -0.9924942255020142.
+  .... current loss: -0.992495596408844
+Iteration: 23800. mean Loss of last 100 steps: -0.9924970865249634.
+  .... current loss: -0.9924983978271484
+Iteration: 23900. mean Loss of last 100 steps: -0.9924997687339783.
+  .... current loss: -0.9925011396408081
+Iteration: 24000. mean Loss of last 100 steps: -0.9925023913383484.
+  .... current loss: -0.9925038814544678
+Iteration: 24100. mean Loss of last 100 steps: -0.9925052523612976.
+  .... current loss: -0.9925066232681274
+Iteration: 24200. mean Loss of last 100 steps: -0.9925079345703125.
+  .... current loss: -0.9925093650817871
+Iteration: 24300. mean Loss of last 100 steps: -0.9925109148025513.
+  .... current loss: -0.9925122261047363
+Iteration: 24400. mean Loss of last 100 steps: -0.9925134778022766.
+  .... current loss: -0.9925149083137512
+Iteration: 24500. mean Loss of last 100 steps: -0.9925161600112915.
+  .... current loss: -0.9925175905227661
+Iteration: 24600. mean Loss of last 100 steps: -0.9925190806388855.
+  .... current loss: -0.9925203919410706
+Iteration: 24700. mean Loss of last 100 steps: -0.9925216436386108.
+  .... current loss: -0.9925230741500854
+Iteration: 24800. mean Loss of last 100 steps: -0.992524266242981.
+  .... current loss: -0.9925258159637451
+Iteration: 24900. mean Loss of last 100 steps: -0.9925272464752197.
+  .... current loss: -0.9925285577774048
+Iteration: 25000. mean Loss of last 100 steps: -0.9925298094749451.
+  .... current loss: -0.9925311803817749
+Iteration: 25100. mean Loss of last 100 steps: -0.99253249168396.
+  .... current loss: -0.9925339221954346
+Iteration: 25200. mean Loss of last 100 steps: -0.992535412311554.
+  .... current loss: -0.9925366044044495
+Iteration: 25300. mean Loss of last 100 steps: -0.9925379157066345.
+  .... current loss: -0.9925392866134644
+Iteration: 25400. mean Loss of last 100 steps: -0.9925405383110046.
+  .... current loss: -0.992542028427124
+Iteration: 25500. mean Loss of last 100 steps: -0.9925433993339539.
+  .... current loss: -0.9925447702407837
+Iteration: 25600. mean Loss of last 100 steps: -0.992546021938324.
+  .... current loss: -0.9925475120544434
+Iteration: 25700. mean Loss of last 100 steps: -0.9925490021705627.
+  .... current loss: -0.9925501346588135
+Iteration: 25800. mean Loss of last 100 steps: -0.9925515651702881.
+  .... current loss: -0.9925528168678284
+Iteration: 25900. mean Loss of last 100 steps: -0.9925540685653687.
+  .... current loss: -0.9925554990768433
+Iteration: 26000. mean Loss of last 100 steps: -0.9925569295883179.
+  .... current loss: -0.9925581812858582
+Iteration: 26100. mean Loss of last 100 steps: -0.9925594925880432.
+  .... current loss: -0.9925609230995178
+Iteration: 26200. mean Loss of last 100 steps: -0.9925621151924133.
+  .... current loss: -0.9925635457038879
+Iteration: 26300. mean Loss of last 100 steps: -0.9925649762153625.
+  .... current loss: -0.9925662279129028
+Iteration: 26400. mean Loss of last 100 steps: -0.9925675988197327.
+  .... current loss: -0.992568850517273
+Iteration: 26500. mean Loss of last 100 steps: -0.9925701022148132.
+  .... current loss: -0.9925715923309326
+Iteration: 26600. mean Loss of last 100 steps: -0.9925729632377625.
+  .... current loss: -0.9925742149353027
+Iteration: 26700. mean Loss of last 100 steps: -0.9925755262374878.
+  .... current loss: -0.9925768971443176
+Iteration: 26800. mean Loss of last 100 steps: -0.9925781488418579.
+  .... current loss: -0.9925795793533325
+Iteration: 26900. mean Loss of last 100 steps: -0.9925809502601624.
+  .... current loss: -0.9925822019577026
+Iteration: 27000. mean Loss of last 100 steps: -0.9925834536552429.
+  .... current loss: -0.9925848841667175
+Iteration: 27100. mean Loss of last 100 steps: -0.992586076259613.
+  .... current loss: -0.9925875663757324
+Iteration: 27200. mean Loss of last 100 steps: -0.9925889372825623.
+  .... current loss: -0.9925898313522339
+iteration: 27265. lowering learning rate to 0.0916268191337399. 
+Iteration: 27300. mean Loss of last 100 steps: -0.9925854206085205.
+  .... current loss: -0.9925907850265503
+Iteration: 27400. mean Loss of last 100 steps: -0.992591381072998.
+  .... current loss: -0.9925921559333801
+Iteration: 27500. mean Loss of last 100 steps: -0.9925927519798279.
+  .... current loss: -0.99259352684021
+Iteration: 27600. mean Loss of last 100 steps: -0.9925940036773682.
+  .... current loss: -0.9925947785377502
+Iteration: 27700. mean Loss of last 100 steps: -0.9925954937934875.
+  .... current loss: -0.9925961494445801
+Iteration: 27800. mean Loss of last 100 steps: -0.9925968647003174.
+  .... current loss: -0.9925974607467651
+Iteration: 27900. mean Loss of last 100 steps: -0.9925981163978577.
+  .... current loss: -0.9925987124443054
+Iteration: 28000. mean Loss of last 100 steps: -0.9925993084907532.
+  .... current loss: -0.9926000833511353
+Iteration: 28100. mean Loss of last 100 steps: -0.992600679397583.
+  .... current loss: -0.9926014542579651
+Iteration: 28200. mean Loss of last 100 steps: -0.9926019310951233.
+  .... current loss: -0.9926027059555054
+Iteration: 28300. mean Loss of last 100 steps: -0.9926035404205322.
+  .... current loss: -0.9926040172576904
+Iteration: 28400. mean Loss of last 100 steps: -0.9926048517227173.
+  .... current loss: -0.9926053881645203
+Iteration: 28500. mean Loss of last 100 steps: -0.9926060438156128.
+  .... current loss: -0.9926066994667053
+Iteration: 28600. mean Loss of last 100 steps: -0.9926073551177979.
+  .... current loss: -0.9926079511642456
+Iteration: 28700. mean Loss of last 100 steps: -0.9926084876060486.
+  .... current loss: -0.9926092624664307
+Iteration: 28800. mean Loss of last 100 steps: -0.9926098585128784.
+  .... current loss: -0.9926105737686157
+Iteration: 28900. mean Loss of last 100 steps: -0.9926114082336426.
+  .... current loss: -0.9926119446754456
+Iteration: 29000. mean Loss of last 100 steps: -0.9926126003265381.
+  .... current loss: -0.9926131963729858
+Iteration: 29100. mean Loss of last 100 steps: -0.9926139116287231.
+  .... current loss: -0.9926145672798157
+Iteration: 29200. mean Loss of last 100 steps: -0.9926152229309082.
+  .... current loss: -0.9926158785820007
+Iteration: 29300. mean Loss of last 100 steps: -0.9926164150238037.
+  .... current loss: -0.992617130279541
+Iteration: 29400. mean Loss of last 100 steps: -0.9926177263259888.
+  .... current loss: -0.9926184415817261
+Iteration: 29500. mean Loss of last 100 steps: -0.9926191568374634.
+  .... current loss: -0.9926197528839111
+Iteration: 29600. mean Loss of last 100 steps: -0.9926204085350037.
+  .... current loss: -0.9926210641860962
+max steps reached.

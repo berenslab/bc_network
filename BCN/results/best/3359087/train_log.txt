@@ -1,0 +1,1129 @@
+Running Model: FullBCModel(
+  (glycinergic_amacrine_cells): AmacrineCellFeedback()
+  (gabaergic_amacrine_cells): AmacrineCellFeedback()
+)
+lr=0.05152182329598098, max_steps=1000, time_reg_weight=0.02049110734470197, sparsity_reg_weight=3.8927961677499236e-07, scale_mean_weight=2.5717471827325356, scale_std_weight=0.6809779474260329
+Init Params:
+
+Step 5 (86.97s), Loss: Local=0.2580341577529907, Global=0.24764224290847778, Speed_reg=9.59e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=8.68e-01
+Step 10 (82.80s), Loss: Local=0.11568031311035157, Global=0.15592352151870728, Speed_reg=1.35e-03, Sparsity_reg=1.00e-04, Scaling_mean_reg=1.00e-04, Scaling_std_reg=1.00e-04, Total=5.16e-01
+Step 15 (82.58s), Loss: Local=0.09336951971054078, Global=0.1355147361755371, Speed_reg=1.57e-03, Sparsity_reg=1.02e-04, Scaling_mean_reg=1.02e-04, Scaling_std_reg=1.02e-04, Total=4.16e-01
+Step 20 (82.62s), Loss: Local=0.09216948747634887, Global=0.11639513969421386, Speed_reg=1.40e-03, Sparsity_reg=1.03e-04, Scaling_mean_reg=1.03e-04, Scaling_std_reg=1.03e-04, Total=3.53e-01
+Step 25 (82.73s), Loss: Local=0.08483206033706665, Global=0.10920604467391967, Speed_reg=1.15e-03, Sparsity_reg=1.04e-04, Scaling_mean_reg=1.04e-04, Scaling_std_reg=1.04e-04, Total=3.00e-01
+Step 30 (82.75s), Loss: Local=0.08101627826690674, Global=0.10388736724853516, Speed_reg=9.97e-04, Sparsity_reg=1.04e-04, Scaling_mean_reg=1.04e-04, Scaling_std_reg=1.04e-04, Total=2.69e-01
+Step 35 (82.56s), Loss: Local=0.08055154085159302, Global=0.09823834896087646, Speed_reg=9.13e-04, Sparsity_reg=1.05e-04, Scaling_mean_reg=1.05e-04, Scaling_std_reg=1.05e-04, Total=2.37e-01
+Step 40 (82.97s), Loss: Local=0.07610971927642822, Global=0.09273096323013305, Speed_reg=9.64e-04, Sparsity_reg=1.06e-04, Scaling_mean_reg=1.06e-04, Scaling_std_reg=1.06e-04, Total=2.13e-01
+Step 45 (83.63s), Loss: Local=0.0710640549659729, Global=0.09020612239837647, Speed_reg=9.67e-04, Sparsity_reg=1.07e-04, Scaling_mean_reg=1.07e-04, Scaling_std_reg=1.07e-04, Total=2.01e-01
+Step 50 (84.78s), Loss: Local=0.06920063495635986, Global=0.0940574049949646, Speed_reg=8.85e-04, Sparsity_reg=1.07e-04, Scaling_mean_reg=1.07e-04, Scaling_std_reg=1.07e-04, Total=2.01e-01
+Step 55 (83.85s), Loss: Local=0.06805109977722168, Global=0.08714050054550171, Speed_reg=8.05e-04, Sparsity_reg=1.07e-04, Scaling_mean_reg=1.07e-04, Scaling_std_reg=1.07e-04, Total=1.89e-01
+Step 60 (82.94s), Loss: Local=0.06497485637664795, Global=0.08233718872070313, Speed_reg=8.23e-04, Sparsity_reg=1.08e-04, Scaling_mean_reg=1.08e-04, Scaling_std_reg=1.08e-04, Total=1.79e-01
+Step 65 (82.99s), Loss: Local=0.06374174356460571, Global=0.07454590797424317, Speed_reg=8.48e-04, Sparsity_reg=1.09e-04, Scaling_mean_reg=1.09e-04, Scaling_std_reg=1.09e-04, Total=1.69e-01
+Step 70 (83.59s), Loss: Local=0.06344296932220458, Global=0.07478514909744263, Speed_reg=8.42e-04, Sparsity_reg=1.09e-04, Scaling_mean_reg=1.09e-04, Scaling_std_reg=1.09e-04, Total=1.72e-01
+Step 75 (82.86s), Loss: Local=0.06344575881958008, Global=0.07191687822341919, Speed_reg=8.22e-04, Sparsity_reg=1.09e-04, Scaling_mean_reg=1.09e-04, Scaling_std_reg=1.09e-04, Total=1.68e-01
+Step 80 (82.63s), Loss: Local=0.06325470209121704, Global=0.06919313669204712, Speed_reg=8.00e-04, Sparsity_reg=1.10e-04, Scaling_mean_reg=1.10e-04, Scaling_std_reg=1.10e-04, Total=1.65e-01
+Step 85 (82.86s), Loss: Local=0.061837518215179445, Global=0.06747766733169555, Speed_reg=7.65e-04, Sparsity_reg=1.11e-04, Scaling_mean_reg=1.11e-04, Scaling_std_reg=1.11e-04, Total=1.58e-01
+Step 90 (82.82s), Loss: Local=0.06093376874923706, Global=0.06394288539886475, Speed_reg=7.35e-04, Sparsity_reg=1.12e-04, Scaling_mean_reg=1.12e-04, Scaling_std_reg=1.12e-04, Total=1.52e-01
+Step 95 (83.05s), Loss: Local=0.060590076446533206, Global=0.06258895397186279, Speed_reg=7.19e-04, Sparsity_reg=1.12e-04, Scaling_mean_reg=1.12e-04, Scaling_std_reg=1.12e-04, Total=1.50e-01
+Step 100 (82.95s), Loss: Local=0.05905628204345703, Global=0.060664379596710206, Speed_reg=6.81e-04, Sparsity_reg=1.12e-04, Scaling_mean_reg=1.12e-04, Scaling_std_reg=1.12e-04, Total=1.44e-01
+Step 105 (83.10s), Loss: Local=0.058318471908569335, Global=0.06938815116882324, Speed_reg=6.84e-04, Sparsity_reg=1.13e-04, Scaling_mean_reg=1.13e-04, Scaling_std_reg=1.13e-04, Total=1.57e-01
+Step 110 (83.03s), Loss: Local=0.06177675724029541, Global=0.0757399320602417, Speed_reg=6.63e-04, Sparsity_reg=1.13e-04, Scaling_mean_reg=1.13e-04, Scaling_std_reg=1.13e-04, Total=1.71e-01
+Step 115 (82.90s), Loss: Local=0.061217653751373294, Global=0.07186108827590942, Speed_reg=6.78e-04, Sparsity_reg=1.13e-04, Scaling_mean_reg=1.13e-04, Scaling_std_reg=1.13e-04, Total=1.68e-01
+Step 120 (82.80s), Loss: Local=0.06842033863067627, Global=0.07628178596496582, Speed_reg=7.03e-04, Sparsity_reg=1.14e-04, Scaling_mean_reg=1.14e-04, Scaling_std_reg=1.14e-04, Total=1.84e-01
+Step 125 (83.09s), Loss: Local=0.06431428194046021, Global=0.06940388679504395, Speed_reg=7.43e-04, Sparsity_reg=1.15e-04, Scaling_mean_reg=1.15e-04, Scaling_std_reg=1.15e-04, Total=1.68e-01
+Step 130 (83.58s), Loss: Local=0.06365854740142822, Global=0.06437824964523316, Speed_reg=8.36e-04, Sparsity_reg=1.16e-04, Scaling_mean_reg=1.16e-04, Scaling_std_reg=1.16e-04, Total=1.61e-01
+Step 135 (82.92s), Loss: Local=0.06270691156387329, Global=0.0608788251876831, Speed_reg=8.89e-04, Sparsity_reg=1.16e-04, Scaling_mean_reg=1.16e-04, Scaling_std_reg=1.16e-04, Total=1.52e-01
+Step 140 (83.15s), Loss: Local=0.060492753982543945, Global=0.059569036960601805, Speed_reg=9.11e-04, Sparsity_reg=1.17e-04, Scaling_mean_reg=1.17e-04, Scaling_std_reg=1.17e-04, Total=1.46e-01
+lowering learning rate to  0.02576091164799049
+Step 145 (71.08s), Loss: Local=0.05982297658920288, Global=0.058097219467163085, Speed_reg=9.06e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.41e-01
+Step 150 (83.36s), Loss: Local=0.05901724100112915, Global=0.057904946804046634, Speed_reg=9.09e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.39e-01
+Step 155 (83.15s), Loss: Local=0.05868602991104126, Global=0.056378507614135744, Speed_reg=8.87e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.36e-01
+Step 160 (82.87s), Loss: Local=0.0582735538482666, Global=0.055726242065429685, Speed_reg=8.60e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.35e-01
+Step 165 (82.99s), Loss: Local=0.05786222219467163, Global=0.05516749620437622, Speed_reg=8.49e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.33e-01
+Step 170 (83.05s), Loss: Local=0.05757269859313965, Global=0.05447853803634643, Speed_reg=8.37e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.33e-01
+Step 175 (82.99s), Loss: Local=0.057182931900024415, Global=0.054303872585296634, Speed_reg=8.32e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.31e-01
+Step 180 (82.87s), Loss: Local=0.0568747878074646, Global=0.054025137424468996, Speed_reg=8.24e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.29e-01
+Step 185 (82.96s), Loss: Local=0.056697165966033934, Global=0.05328649282455444, Speed_reg=8.20e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.28e-01
+Step 190 (82.99s), Loss: Local=0.056381058692932126, Global=0.05326862335205078, Speed_reg=8.17e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.28e-01
+Step 195 (83.03s), Loss: Local=0.056212103366851805, Global=0.05508493185043335, Speed_reg=8.12e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.32e-01
+Step 200 (83.06s), Loss: Local=0.05702188014984131, Global=0.058272910118103025, Speed_reg=8.18e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.38e-01
+Step 205 (83.03s), Loss: Local=0.05625847578048706, Global=0.05627793073654175, Speed_reg=8.31e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.34e-01
+Step 210 (83.11s), Loss: Local=0.056229686737060545, Global=0.05412681102752685, Speed_reg=8.41e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.30e-01
+Step 215 (83.27s), Loss: Local=0.055932474136352536, Global=0.05223599672317505, Speed_reg=8.45e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.26e-01
+Step 220 (83.13s), Loss: Local=0.055149269104003903, Global=0.05245516300201416, Speed_reg=8.40e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.25e-01
+Step 225 (82.96s), Loss: Local=0.05499635934829712, Global=0.05188772678375244, Speed_reg=8.21e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.25e-01
+Step 230 (83.03s), Loss: Local=0.05508592128753662, Global=0.05136786699295044, Speed_reg=8.02e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.24e-01
+Step 235 (83.18s), Loss: Local=0.05466104745864868, Global=0.051520812511444095, Speed_reg=7.89e-04, Sparsity_reg=1.18e-04, Scaling_mean_reg=1.18e-04, Scaling_std_reg=1.18e-04, Total=1.23e-01
+Step 240 (83.05s), Loss: Local=0.05464223623275757, Global=0.050688111782073976, Speed_reg=7.71e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.22e-01
+Step 245 (83.02s), Loss: Local=0.05423747301101685, Global=0.05052119493484497, Speed_reg=7.63e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.21e-01
+Step 250 (83.20s), Loss: Local=0.05413720607757568, Global=0.05105185508728027, Speed_reg=7.54e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.23e-01
+Step 255 (83.02s), Loss: Local=0.05400769710540772, Global=0.05086151361465454, Speed_reg=7.53e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.22e-01
+Step 260 (83.07s), Loss: Local=0.05391511917114258, Global=0.05104215145111084, Speed_reg=7.43e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.22e-01
+lowering learning rate to  0.012880455823995244
+Step 265 (71.32s), Loss: Local=0.054117214679718015, Global=0.050269055366516116, Speed_reg=7.58e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.21e-01
+Step 270 (83.12s), Loss: Local=0.05410333871841431, Global=0.0502930998802185, Speed_reg=7.54e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.20e-01
+Step 275 (83.22s), Loss: Local=0.05386648178100586, Global=0.04997985363006592, Speed_reg=7.53e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.19e-01
+Step 280 (83.04s), Loss: Local=0.05387554168701172, Global=0.04957072734832764, Speed_reg=7.52e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.18e-01
+Step 285 (83.08s), Loss: Local=0.05378502607345581, Global=0.04950920343399048, Speed_reg=7.51e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.18e-01
+Step 290 (83.52s), Loss: Local=0.05366445779800415, Global=0.04957470893859863, Speed_reg=7.49e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.19e-01
+Step 295 (83.46s), Loss: Local=0.053671610355377194, Global=0.04959702491760254, Speed_reg=7.48e-04, Sparsity_reg=1.19e-04, Scaling_mean_reg=1.19e-04, Scaling_std_reg=1.19e-04, Total=1.19e-01
+Step 300 (83.24s), Loss: Local=0.053507423400878905, Global=0.0493409276008606, Speed_reg=7.45e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.19e-01
+Step 305 (83.04s), Loss: Local=0.05333690643310547, Global=0.04884260892868042, Speed_reg=7.40e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.18e-01
+Step 310 (83.17s), Loss: Local=0.05319991111755371, Global=0.04887964725494385, Speed_reg=7.38e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.18e-01
+Step 315 (83.17s), Loss: Local=0.05310956239700317, Global=0.048830604553222655, Speed_reg=7.39e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.18e-01
+Step 320 (83.21s), Loss: Local=0.05308481454849243, Global=0.048717689514160153, Speed_reg=7.39e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.18e-01
+Step 325 (83.17s), Loss: Local=0.05300260782241821, Global=0.049019694328308105, Speed_reg=7.41e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.18e-01
+Step 330 (83.25s), Loss: Local=0.05276600122451782, Global=0.04890263080596924, Speed_reg=7.38e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.17e-01
+Step 335 (82.90s), Loss: Local=0.05266118049621582, Global=0.04789543151855469, Speed_reg=7.39e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.16e-01
+Step 340 (83.10s), Loss: Local=0.052783870697021486, Global=0.047619640827178955, Speed_reg=7.38e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 345 (83.01s), Loss: Local=0.05259957313537598, Global=0.04724029302597046, Speed_reg=7.39e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.14e-01
+Step 350 (83.08s), Loss: Local=0.05244497060775757, Global=0.047304046154022214, Speed_reg=7.43e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 355 (83.03s), Loss: Local=0.05245454311370849, Global=0.04761558771133423, Speed_reg=7.40e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 360 (82.80s), Loss: Local=0.052264511585235596, Global=0.04736759662628174, Speed_reg=7.39e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 365 (82.65s), Loss: Local=0.052200472354888915, Global=0.04736689329147339, Speed_reg=7.40e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+lowering learning rate to  0.006440227911997622
+Step 370 (70.98s), Loss: Local=0.05233422517776489, Global=0.04729902744293213, Speed_reg=7.36e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.14e-01
+Step 375 (83.02s), Loss: Local=0.052383553981781, Global=0.04742552042007446, Speed_reg=7.40e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 380 (82.95s), Loss: Local=0.05241737365722656, Global=0.04710607528686524, Speed_reg=7.40e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 385 (82.93s), Loss: Local=0.052519369125366214, Global=0.04714972972869873, Speed_reg=7.38e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 390 (82.75s), Loss: Local=0.05232369899749756, Global=0.04717819690704346, Speed_reg=7.38e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.14e-01
+Step 395 (82.79s), Loss: Local=0.052166664600372316, Global=0.047116637229919434, Speed_reg=7.39e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 400 (82.72s), Loss: Local=0.052371656894683837, Global=0.04719023704528809, Speed_reg=7.35e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.15e-01
+Step 405 (82.76s), Loss: Local=0.052245926856994626, Global=0.047081518173217776, Speed_reg=7.35e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.14e-01
+Step 410 (82.58s), Loss: Local=0.052093684673309326, Global=0.04692314863204956, Speed_reg=7.34e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.13e-01
+Step 415 (83.19s), Loss: Local=0.052060484886169434, Global=0.04690866470336914, Speed_reg=7.33e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.13e-01
+Step 420 (82.89s), Loss: Local=0.052042257785797116, Global=0.046605896949768064, Speed_reg=7.33e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.13e-01
+Step 425 (82.89s), Loss: Local=0.052011740207672116, Global=0.046719467639923094, Speed_reg=7.33e-04, Sparsity_reg=1.20e-04, Scaling_mean_reg=1.20e-04, Scaling_std_reg=1.20e-04, Total=1.13e-01
+Step 430 (82.91s), Loss: Local=0.05197408199310303, Global=0.04662677049636841, Speed_reg=7.32e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.13e-01
+Step 435 (82.85s), Loss: Local=0.05191893577575683, Global=0.046553826332092284, Speed_reg=7.33e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.12e-01
+Step 440 (82.72s), Loss: Local=0.051760423183441165, Global=0.046442818641662595, Speed_reg=7.32e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.12e-01
+Step 445 (82.66s), Loss: Local=0.05174633264541626, Global=0.04656146764755249, Speed_reg=7.31e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.12e-01
+Step 450 (82.81s), Loss: Local=0.05168538093566895, Global=0.04644333124160767, Speed_reg=7.29e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.12e-01
+Step 455 (82.89s), Loss: Local=0.05155184268951416, Global=0.04647970199584961, Speed_reg=7.26e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.12e-01
+Step 460 (82.68s), Loss: Local=0.05167523622512817, Global=0.0461943507194519, Speed_reg=7.23e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.12e-01
+Step 465 (83.09s), Loss: Local=0.05152655839920044, Global=0.046195948123931886, Speed_reg=7.23e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.11e-01
+lowering learning rate to  0.003220113955998811
+Step 470 (71.04s), Loss: Local=0.051507627964019774, Global=0.045983517169952394, Speed_reg=7.22e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.11e-01
+Step 475 (83.14s), Loss: Local=0.051468515396118165, Global=0.04621678590774536, Speed_reg=7.23e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.11e-01
+Step 480 (82.98s), Loss: Local=0.05151335000991821, Global=0.045973467826843264, Speed_reg=7.22e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.11e-01
+Step 485 (82.98s), Loss: Local=0.05154561996459961, Global=0.04578651189804077, Speed_reg=7.22e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 490 (82.98s), Loss: Local=0.05145982503890991, Global=0.045867669582366946, Speed_reg=7.23e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 495 (82.93s), Loss: Local=0.05151520967483521, Global=0.04574607610702515, Speed_reg=7.23e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 500 (83.00s), Loss: Local=0.05134735107421875, Global=0.045784389972686766, Speed_reg=7.23e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 505 (82.89s), Loss: Local=0.051514482498168944, Global=0.04569908380508423, Speed_reg=7.21e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 510 (82.75s), Loss: Local=0.05139974355697632, Global=0.04568240642547607, Speed_reg=7.22e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 515 (82.92s), Loss: Local=0.05134681463241577, Global=0.04564222097396851, Speed_reg=7.20e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 520 (82.84s), Loss: Local=0.05138411521911621, Global=0.045633900165557864, Speed_reg=7.21e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 525 (83.24s), Loss: Local=0.05133281946182251, Global=0.04562804698944092, Speed_reg=7.20e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 530 (83.24s), Loss: Local=0.0513916015625, Global=0.045661640167236325, Speed_reg=7.18e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 535 (83.00s), Loss: Local=0.0512384295463562, Global=0.04580259323120117, Speed_reg=7.17e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 540 (83.05s), Loss: Local=0.05138903856277466, Global=0.04552079439163208, Speed_reg=7.15e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 545 (83.05s), Loss: Local=0.05119982957839966, Global=0.045578742027282716, Speed_reg=7.15e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 550 (83.07s), Loss: Local=0.05130934715270996, Global=0.04555795192718506, Speed_reg=7.14e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 555 (82.92s), Loss: Local=0.05118616819381714, Global=0.04549816846847534, Speed_reg=7.12e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 560 (82.86s), Loss: Local=0.05135945081710815, Global=0.045633673667907715, Speed_reg=7.11e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 565 (83.05s), Loss: Local=0.05102019309997559, Global=0.045814788341522215, Speed_reg=7.10e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+lowering learning rate to  0.0016100569779994055
+Step 570 (71.17s), Loss: Local=0.0513763427734375, Global=0.04560273885726929, Speed_reg=7.13e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 575 (82.86s), Loss: Local=0.051074326038360596, Global=0.04556626081466675, Speed_reg=7.12e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 580 (83.00s), Loss: Local=0.051327061653137204, Global=0.04553842544555664, Speed_reg=7.12e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 585 (82.82s), Loss: Local=0.051216936111450194, Global=0.045432865619659424, Speed_reg=7.12e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 590 (82.84s), Loss: Local=0.051159775257110594, Global=0.045493900775909424, Speed_reg=7.11e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 595 (83.19s), Loss: Local=0.05118902921676636, Global=0.04532492160797119, Speed_reg=7.11e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 600 (83.37s), Loss: Local=0.05125066041946411, Global=0.045423805713653564, Speed_reg=7.11e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 605 (83.25s), Loss: Local=0.05116711854934693, Global=0.04539434909820557, Speed_reg=7.10e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 610 (83.06s), Loss: Local=0.051127827167510985, Global=0.04546909332275391, Speed_reg=7.10e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 615 (83.24s), Loss: Local=0.05118339061737061, Global=0.04546209573745728, Speed_reg=7.09e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 620 (83.04s), Loss: Local=0.051025795936584475, Global=0.04537409543991089, Speed_reg=7.09e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 625 (83.29s), Loss: Local=0.05121592283248901, Global=0.04536792039871216, Speed_reg=7.08e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 630 (83.13s), Loss: Local=0.05092153549194336, Global=0.04535937309265137, Speed_reg=7.08e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 635 (83.35s), Loss: Local=0.051034390926361084, Global=0.04532610177993775, Speed_reg=7.08e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 640 (83.07s), Loss: Local=0.05104066133499145, Global=0.045450794696807864, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 645 (83.35s), Loss: Local=0.051120650768280027, Global=0.04528684616088867, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.10e-01
+Step 650 (83.26s), Loss: Local=0.05098186731338501, Global=0.04520183801651001, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 655 (83.38s), Loss: Local=0.05096776485443115, Global=0.04532643556594849, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+lowering learning rate to  0.0008050284889997028
+Step 660 (70.96s), Loss: Local=0.05100274085998535, Global=0.045309793949127194, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 665 (83.42s), Loss: Local=0.0510612964630127, Global=0.04518533945083618, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 670 (83.39s), Loss: Local=0.050975573062896726, Global=0.04533005952835083, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 675 (83.20s), Loss: Local=0.05114213228225708, Global=0.045198690891265866, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 680 (83.35s), Loss: Local=0.051024866104125974, Global=0.04532481431961059, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 685 (83.05s), Loss: Local=0.05102313756942749, Global=0.04528195858001709, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 690 (83.34s), Loss: Local=0.05102287530899048, Global=0.0451815128326416, Speed_reg=7.07e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 695 (83.31s), Loss: Local=0.05103909969329834, Global=0.04527384042739868, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 700 (83.16s), Loss: Local=0.050947725772857666, Global=0.04518958330154419, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 705 (83.38s), Loss: Local=0.05101237297058105, Global=0.04527140855789184, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 710 (83.33s), Loss: Local=0.05101833343505859, Global=0.045258712768554685, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 715 (83.32s), Loss: Local=0.05092777013778686, Global=0.04511215686798096, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 720 (83.45s), Loss: Local=0.05096211433410645, Global=0.04513474702835083, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 725 (83.11s), Loss: Local=0.0510498046875, Global=0.04519723653793335, Speed_reg=7.06e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 730 (83.12s), Loss: Local=0.05098285675048828, Global=0.04509056806564331, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 735 (83.06s), Loss: Local=0.05091164112091064, Global=0.04521480798721313, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 740 (83.23s), Loss: Local=0.05091617107391357, Global=0.045115303993225095, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 745 (83.19s), Loss: Local=0.05104750394821167, Global=0.045107901096343994, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 750 (82.99s), Loss: Local=0.050942623615264894, Global=0.04514963626861572, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+lowering learning rate to  0.0004025142444998514
+Step 755 (71.58s), Loss: Local=0.05094844102859497, Global=0.04500744342803955, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 760 (83.19s), Loss: Local=0.050976133346557616, Global=0.04517519474029541, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 765 (83.24s), Loss: Local=0.05096306800842285, Global=0.04513523578643799, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 770 (82.81s), Loss: Local=0.05096560716629028, Global=0.045077955722808837, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 775 (82.88s), Loss: Local=0.050954902172088624, Global=0.045138418674468994, Speed_reg=7.05e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 780 (83.08s), Loss: Local=0.050935769081115724, Global=0.045079708099365234, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 785 (83.03s), Loss: Local=0.05089583396911621, Global=0.04507189989089966, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 790 (83.29s), Loss: Local=0.05100746154785156, Global=0.045159447193145755, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 795 (82.98s), Loss: Local=0.050964176654815674, Global=0.04492584466934204, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 800 (82.96s), Loss: Local=0.05090030431747437, Global=0.04513450860977173, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 805 (83.16s), Loss: Local=0.050930678844451904, Global=0.045028722286224364, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 810 (83.31s), Loss: Local=0.05098212957382202, Global=0.04502435922622681, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 815 (83.17s), Loss: Local=0.050905823707580566, Global=0.045100629329681396, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 820 (83.12s), Loss: Local=0.05095441341400146, Global=0.044943737983703616, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 825 (84.03s), Loss: Local=0.050949382781982425, Global=0.0450974702835083, Speed_reg=7.04e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 830 (83.13s), Loss: Local=0.050914859771728514, Global=0.044973897933959964, Speed_reg=7.03e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 835 (83.47s), Loss: Local=0.05099354982376099, Global=0.04509958028793335, Speed_reg=7.03e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.09e-01
+Step 840 (83.18s), Loss: Local=0.05087149143218994, Global=0.044997358322143556, Speed_reg=7.03e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 845 (83.51s), Loss: Local=0.05092414617538452, Global=0.045011043548583984, Speed_reg=7.03e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Step 850 (84.85s), Loss: Local=0.05095714330673218, Global=0.0449518084526062, Speed_reg=7.03e-04, Sparsity_reg=1.21e-04, Scaling_mean_reg=1.21e-04, Scaling_std_reg=1.21e-04, Total=1.08e-01
+Converged.
+stimulus_bias before=[0.04289288]
+after=[0.09069684]
+
+stimulus_scale before=[0.24373454]
+after=[0.23186043]
+
+kernel_speed before=[0.36830872 0.3604338  0.34331554 0.3623055  0.3569275  0.3157174
+ 0.35733652 0.34892684 0.38961762 0.38318273 0.32658952 0.3488971
+ 0.35641468 0.2622604 ]
+after=[0.26008934 0.30436453 0.33293688 0.331627   0.30973816 0.2846914
+ 0.2503166  0.28810933 0.37042344 0.3238311  0.25296822 0.2832643
+ 0.3067464  0.27441686]
+
+sigmoid_offset before=[ 1.7284784   0.9557721   0.28272086  0.26831347 -0.10104243  1.2677771
+  1.1756914   0.5341412  -0.00437912 -0.02197618  1.0143617   0.97917616
+  1.3453636   0.6133871 ]
+after=[ 0.24611682  0.8753445   0.5332468   0.19349408 -0.13081427  1.2919253
+  1.232205    0.70534945  0.08784004  0.06687275  1.0945122   1.0449067
+  1.4710749   0.21454397]
+
+sigmoid_slope before=[ 4.0974865  2.791768   8.389149   5.629425  10.040583   2.5166113
+  2.5905042  3.8754988 28.7908     3.998158   3.0277648  1.8212681
+  3.3231149  2.0588999]
+after=[ 3.0747824  2.2639303  7.7054586  4.3370533  7.8822665  2.5554638
+  2.200674   3.1398044 19.202885   3.0810497  3.2584813  1.6694632
+  3.0213351  4.0754447]
+
+change_prob01 before=[0.25297245 0.18942851 0.8264635  0.47428614 0.49152258 0.05948147
+ 0.22612782 0.11781286 0.24023731 0.23684339 0.4147952  0.13401797
+ 0.09149088 0.17382888]
+after=[0.97895086 0.15995593 0.68480295 0.07564721 0.1081165  0.07115707
+ 0.334979   0.11000559 0.10457135 0.17761095 0.704846   0.107273
+ 0.09984205 0.1076028 ]
+
+change_prob12 before=[0.01096234 0.23573992 0.08547488 1.8817276  0.09640967 0.12272095
+ 0.01188625 0.01043145 0.01324747 0.03229701 0.01002913 0.43163398
+ 0.13879564 0.02369343]
+after=[0.04444218 0.23869151 0.07909568 0.22052827 0.0469531  0.1523439
+ 0.01716319 0.00797051 0.01237053 0.05285499 0.01361301 0.3379357
+ 0.12533545 0.00896767]
+
+intermediate_pool_capacity before=[29.25885   30.693329  25.968094   8.97174   23.428106   3.5682657
+  5.93445   14.060356  25.640827  26.576994   6.290353   7.648087
+ 11.369534  13.967554 ]
+after=[118.62968    22.656097   28.415657    2.4694064  11.63119     4.840493
+   8.64708    23.605848   14.075412   13.95608     8.639114   11.807853
+  28.64256    20.553589 ]
+
+release_pool_capacity before=[ 1.2597021  7.134526  82.91687   15.149846   3.2030458 19.33117
+  9.564509   4.804526  13.705146   0.5287748  9.937509   3.2302492
+ 24.98613    2.070452 ]
+after=[ 5.1136475   7.215804   57.48909    11.897288    1.6101229  23.48655
+ 10.44224     4.623917    5.126582    0.25483128 26.620676    2.9000204
+ 24.337893    2.3927011 ]
+
+sig_ip_steady before=[ 4.0251675  13.698301    2.3234925   0.16205592 -3.6689532  13.653539
+  4.4224224  12.476608    0.5261933  13.802661    0.30464512  3.9289455
+  1.6063828  11.47837   ]
+after=[ 3.8182802  13.698237    2.3132625   2.4962096  -2.1470642  13.6172
+  2.2569969   1.7112302  -0.05800575 13.799451    0.03092467  4.2421823
+  0.57791686  0.7269777 ]
+
+sig_rrp_steady before=[ 4.2938333  13.777091    1.5997326   3.9387393  13.643847    4.2396913
+ 13.769167    2.6355357  -0.05696887  7.2926583   5.7647595  13.818327
+ 13.774207   13.669162  ]
+after=[ 7.540745  13.835538  -0.989257   0.5991792 13.74567    3.0206323
+ 13.614157  -4.644125  -0.1128361  6.942086   4.950926  13.807116
+ 13.561307  13.8294325]
+
+acl_bc_weight before=[6.42825337e-03 3.27286216e-08 3.30292434e-01 3.38287384e-04
+ 6.80077896e-02 1.64166957e-01 2.01425908e-04 5.25703770e-04
+ 4.14411485e-01 4.55584785e-04 4.18786925e-07 1.18517413e-07
+ 7.31946955e-07 2.98347970e-07 4.25887346e-01 1.14729583e-01
+ 1.52500533e-03 3.22410720e-04 8.95066381e-01 4.29144457e-05
+ 6.29910326e-04 3.22754058e-04 9.11440793e-03 2.52844734e-06
+ 5.45227920e-07 5.93128540e-02 1.35362381e-03 3.95505509e-07
+ 4.62562978e-01 2.11772160e-03 2.99739745e-03 4.03349816e-08
+ 3.72433871e-01 4.04906506e-03 3.43338167e-03 1.78230450e-01
+ 7.55567200e-08 1.91007715e-07 4.11805093e-01 7.62554180e-08
+ 6.51731528e-03 1.27727432e-07 1.01805432e-02 2.51469500e-02
+ 3.09613000e-07 6.97442260e-07 1.68204587e-02 4.14577387e-02
+ 4.65058088e-01 1.23331844e-07 2.65651196e-03 2.87253022e-01
+ 6.26333281e-02 9.58346486e-01 2.15236202e-01 9.34688747e-03
+ 6.55575693e-02 2.38844246e-01 1.00258775e-02 2.71706998e-01
+ 3.47117595e-02 2.00987548e-01 2.23520286e-02 1.16242218e+00
+ 1.50509492e-01 3.02758962e-02 1.38258815e-01 3.10650524e-02
+ 4.72468324e-03 2.10650519e-01 1.71561958e-03 1.14140916e-03
+ 1.07804708e-01 8.11784983e-01 1.21897329e-02 1.51870726e-02
+ 2.32195916e-07 1.10036246e-02 3.68703354e-07 1.76305475e-03
+ 9.09561606e-07 1.77699365e-02 1.20492987e-02 4.95640968e-04
+ 1.18993258e-03 9.77036171e-03 4.80047688e-02 6.05818592e-02
+ 6.72093360e-03 3.17290783e-01 6.04915385e-07 1.59033505e-07
+ 2.96120852e-01 3.04437071e-01 9.13448725e-03 8.44343193e-03
+ 2.79675261e-03 3.47533074e-07 1.90633861e-03 1.91429541e-01
+ 6.43698797e-02 2.13644415e-01 3.86364874e-03 4.91145462e-01
+ 9.27609354e-02 5.90967434e-03 4.85092372e-04 3.01206797e-01
+ 2.33334422e-01 1.78702533e-01 2.17032209e-02 2.33409002e-01
+ 8.23452100e-02 9.91091847e-01 1.65421125e-06 6.84868172e-02
+ 2.18859706e-02 6.71974431e-06 4.18256549e-03 1.39065608e-01
+ 2.14114129e-06 1.65678794e-04 3.68137512e-06 5.61409354e-01
+ 4.21892673e-06 1.92082804e-02 1.27463192e-01 1.38615678e-06
+ 3.03921178e-02 2.33363211e-01 1.17846980e-06 7.75677934e-02
+ 2.47924119e-01 3.57073784e-01 8.18877538e-07 2.15170381e-04
+ 2.09899135e-02 5.49627885e-07 1.22813645e-07 1.94681540e-01]
+after=[1.59454264e-03 2.58055746e-08 3.78018409e-01 9.52757982e-05
+ 7.36702010e-02 2.19703630e-01 3.00258707e-05 3.80627215e-02
+ 7.23053038e-01 5.39356079e-05 3.92347204e-07 1.22697045e-07
+ 6.07143988e-07 2.82317757e-07 4.26561862e-01 1.99657962e-01
+ 6.17858721e-04 6.99784141e-05 1.01560891e+00 2.92430263e-06
+ 8.06090247e-04 2.45512347e-04 1.18288547e-02 3.92534548e-06
+ 7.07105812e-07 1.13046996e-01 2.32890528e-03 5.30122804e-07
+ 3.48125905e-01 5.28418086e-03 2.21774541e-03 2.19107665e-08
+ 4.14384723e-01 5.42024570e-03 9.66470572e-04 1.91786349e-01
+ 5.30930038e-08 1.90942330e-07 5.45020700e-01 4.42728698e-08
+ 6.24341704e-03 9.74055681e-08 1.22203687e-02 3.74637619e-02
+ 2.89866477e-07 1.70422427e-05 4.96636070e-02 2.35469207e-01
+ 5.76785266e-01 5.87789089e-08 2.55481456e-03 3.27846080e-01
+ 1.08374469e-01 8.19587886e-01 2.27630496e-01 6.35036966e-03
+ 2.04795048e-01 2.77616531e-01 1.08027346e-02 2.88572490e-01
+ 3.23736295e-02 1.29851758e-01 7.01991171e-02 1.20401466e+00
+ 1.07548423e-01 3.04522179e-02 6.25301078e-02 1.87164042e-02
+ 4.43749828e-03 2.09142119e-01 1.71876058e-03 4.79782786e-04
+ 8.89731646e-02 6.23358846e-01 7.54564852e-02 6.88278675e-03
+ 1.88021659e-07 1.37173712e-01 4.60652018e-07 2.64047936e-04
+ 9.38552319e-07 6.94442615e-02 1.23061463e-02 9.08507500e-04
+ 5.73120196e-04 5.30557847e-03 5.69212660e-02 3.33849639e-01
+ 3.35624884e-03 3.10110360e-01 5.58973738e-07 9.80018982e-08
+ 3.78838956e-01 5.51928282e-01 5.44063468e-03 4.00787499e-03
+ 4.96261753e-04 1.70954380e-07 3.70296533e-03 3.47248524e-01
+ 7.10497871e-02 2.12201893e-01 2.28537666e-03 5.50364554e-01
+ 7.31519014e-02 1.51772993e-02 3.79922939e-03 4.29966211e-01
+ 1.96170092e-01 2.03551307e-01 2.35246383e-02 2.64414191e-01
+ 4.87906672e-02 1.49814224e+00 1.02199238e-06 7.87736848e-02
+ 1.02415934e-01 1.63527086e-01 4.29466087e-03 3.91834617e-01
+ 2.15984505e-06 7.28353989e-05 2.21234786e-05 5.87164521e-01
+ 4.72121246e-06 3.66053395e-02 1.28633350e-01 7.01134923e-05
+ 3.74115184e-02 4.01008189e-01 8.96017980e-07 3.10694594e-02
+ 2.27246657e-01 4.00939643e-01 9.48952106e-07 8.16844185e-05
+ 1.05372081e-02 2.58189289e-07 1.04105425e-07 4.24028128e-01]
+
+acg_bc_weight before=[3.61262124e-07 5.95686458e-07 2.33766693e-03 1.06850732e-03
+ 3.69611143e-06 3.93072270e-07 8.98443773e-07 4.71063703e-03
+ 2.11586244e-03 6.29255623e-02 1.07938729e-01 3.76505032e-03
+ 1.45184754e-06 5.72822330e-07 5.76255145e-03 5.63063547e-02
+ 5.28932363e-02 2.86940605e-07 1.22216269e-02 1.48963742e-03
+ 6.21612882e-04 3.89929652e-01 1.22428127e-01 5.85569395e-03
+ 8.29546154e-02 1.91689003e-02 6.82847900e-03 3.96185783e-07
+ 3.33213904e-07 3.15174507e-03 5.86247444e-02 1.83772668e-02
+ 4.14983390e-07 3.28768305e-02 2.46480584e-01 3.54405842e-04
+ 1.92716986e-01 3.53214375e-07 2.98016006e-03 3.58148191e-06
+ 9.10179438e-07 5.61486542e-01 6.79972231e-07 3.76351736e-03
+ 1.59584701e-07 2.07559879e-07 4.90937948e-01 1.85740603e-07
+ 7.08686654e-03 6.89359531e-02 1.27158017e-07 7.48436889e-07
+ 3.45003582e-03 3.49146454e-03 1.31730914e-07 4.43780702e-03
+ 1.20215081e-01 8.40625546e-07 1.29179990e+00 6.69105361e-07
+ 9.93807816e-07 1.01508526e-02 9.04238220e-07 2.60970779e-07
+ 5.00600379e-07 2.80253801e-07 8.33090041e-07 3.11240655e-07
+ 1.81175750e-02 4.98210965e-03 5.88358603e-02 2.58160617e-06
+ 7.11157802e-04 9.17571411e-03 3.08311377e-02 2.63395049e-02
+ 1.57209724e-01 2.63463636e-03 1.08369607e-02 2.95202017e-06
+ 6.55903796e-06 7.51109794e-02 1.32387215e-02 1.09309386e-02
+ 2.32587121e-02 2.29991414e-03 8.68537091e-03 7.83712137e-03
+ 2.69203521e-02 1.01132747e-02 1.27904620e-02 2.79837679e-02
+ 7.71956332e-03 9.83923394e-03 1.88579727e-02 6.72122155e-07
+ 6.60868125e-07 3.20164952e-03 7.87800644e-03 9.34353977e-07
+ 3.35025266e-02 2.38753796e-01 5.26624262e-07 8.16547413e-07
+ 8.58578365e-03 1.42061701e-02 3.55008950e-07 1.92230549e-02
+ 5.36306296e-03 5.83120435e-02 8.84724784e-07 4.36226429e-07
+ 4.94863559e-03 2.20955908e-02 1.50231626e-02 8.40921327e-02
+ 2.49780621e-02 4.45259782e-03 7.45749474e-03 3.13416845e-03
+ 7.22220079e-07 1.70594886e-01 4.26525017e-03 1.24095213e-02
+ 2.08713715e-07 4.65607116e-07 3.23725701e-03 1.13780074e-01
+ 2.12035366e-06 5.26134148e-02 1.38747941e-06 1.14676859e-02
+ 2.53099774e-04 2.17357301e-03 2.19399761e-02 4.86430414e-02
+ 4.86160852e-02 7.40367407e-03 1.23016741e-06 2.35922277e-01
+ 3.86091927e-03 5.04228410e-07 1.61672861e-03 1.25815114e-02
+ 7.78975220e-07 3.88215594e-02 7.30840815e-03 5.27462165e-04
+ 6.73472183e-03 2.45476067e-02 1.14155933e-02 8.84246504e-07
+ 9.06196237e-03 3.22157256e-02 1.07060596e-02 3.03657544e-07
+ 8.67534138e-04 1.94405823e-03 1.01655707e-01 3.57972510e-07
+ 4.98903263e-03 1.29986927e-02 2.59776320e-03 3.53769306e-03
+ 1.73091667e-03 2.34180270e-03 7.96977524e-03 9.28841811e-03
+ 2.29036668e-03 2.20653345e-03 1.38394177e-01 5.93195530e-03
+ 9.34700854e-03 3.79241840e-03 1.56017265e-03 7.43556544e-02
+ 5.78726770e-07 1.37711652e-06 2.89986953e-02 4.27573104e-06
+ 1.25882843e-06 1.52234825e-05 9.47963429e-07 3.57183963e-02
+ 1.83267584e-05 5.18296612e-03 1.98087352e-03 4.76861093e-03
+ 9.03476234e-07 4.70021274e-04 4.11759615e-01 2.93681501e-06
+ 4.25779074e-03 1.30501326e-06 4.16140594e-02 1.60393438e-06
+ 1.73179410e-06 4.63561993e-03 1.07694324e-02 1.53681301e-02
+ 1.12553698e-06 8.86548776e-04 1.54691099e-06 1.43939024e-02
+ 1.52501252e-06 5.37117086e-02 1.43312669e+00 2.01776402e-06
+ 5.24552213e-03 3.90065834e-04 6.51485379e-07 5.52242668e-03
+ 1.40711316e-03 1.27825299e-02 1.60007700e-01 4.82988777e-04
+ 3.57551011e-03 1.95009355e-02 1.16800619e-02 1.33308197e-06
+ 3.63877341e-02 6.61949022e-03 1.02491813e-05 9.64722631e-07
+ 7.05592781e-02 1.88152224e-01 7.42437318e-03 1.16548985e-02
+ 6.98075863e-03 4.43855003e-02 1.86486170e-06 1.34204384e-02
+ 3.25977453e-07 2.15096641e-02 2.42339144e-03 5.26111061e-03
+ 1.62254106e-02 4.70040478e-02 1.38815567e-01 2.11527452e-01
+ 6.03935821e-03 6.57114208e-01 1.12166435e-06 3.36393621e-03
+ 2.08478002e-03 5.87603413e-02 1.08274212e-02 7.61593810e-07
+ 8.37782049e-04 1.88419467e-03 1.33611704e-03 1.36397441e-03
+ 7.26512168e-04 5.33340918e-03 1.49893453e-02 6.23629689e-02
+ 7.07279128e-07 4.82967407e-01 3.98265513e-07 2.23761331e-03
+ 1.75818969e-02 1.38110829e-06 2.70531699e-03 3.37590440e-03
+ 2.13669017e-02 7.47816265e-03 3.12466756e-03 7.85862312e-07
+ 1.42514519e-03 1.39751626e-06 5.33485878e-03 1.84244141e-02
+ 9.89466254e-03 1.52890369e-01 1.03988230e-01 6.76488526e-07
+ 2.77487576e-01 1.36404401e-02 3.49003961e-03 7.30027125e-07
+ 4.11501765e-04 1.05962135e-06 1.86806230e-03 3.66881080e-02
+ 5.76459804e-08 2.33244672e-02 6.22196831e-02 1.95696168e-02
+ 7.97828077e-04 2.99065277e-07 7.19011819e-04 3.07304412e-03
+ 5.68424305e-03 1.08160274e-02 3.10083926e-02 4.73122345e-03
+ 3.82585870e-03 9.34288651e-03 1.57208069e-06 2.75813676e-02
+ 3.96451168e-02 8.89035501e-03 1.79271726e-03 5.33754053e-03
+ 9.23966698e-04 2.89913244e-03 7.04071681e-07 7.99752772e-03
+ 3.09360097e-03 9.03900670e-08 5.35876071e-03 1.31577999e-05
+ 1.25864856e-02 1.26208980e-02 1.53989518e-07 5.70282600e-06
+ 7.46238977e-03 7.71469047e-07 1.94074623e-02 2.71993429e-07
+ 5.16783814e-07 3.29988296e-07 8.41793621e-07 6.37218216e-03
+ 2.78075039e-01 1.24025732e-01 6.17699651e-03 1.59218051e-02
+ 2.83510350e-02 8.24033574e-04 4.79090074e-03 1.67521807e-06
+ 8.54534733e-07 7.10204813e-06 2.89995107e-03 5.34937783e-07
+ 6.37222175e-03 3.50184496e-06 3.51035624e-07 4.65314649e-03
+ 3.39213423e-02 1.98913291e-02 2.31570564e-03 1.18252337e-02
+ 1.24662407e-01 2.11350175e-06 5.34684830e-07 1.05677248e-06
+ 9.00518842e-07 3.10181752e-02 4.41606669e-03 1.18642789e-03
+ 6.93962988e-07 6.75573759e-03 7.84188434e-02 4.32192564e-01
+ 9.99562256e-03 4.62985219e-04 3.01211998e-02 3.35590309e-03
+ 4.21618409e-02 1.04565232e-03 2.80356896e-03 8.32358273e-06
+ 5.16009592e-02 1.23159084e-02 3.54300067e-03 1.35734230e-02
+ 1.63926790e-03 6.10150153e-07 2.15514600e-02 1.34847965e-03
+ 5.44608524e-03 2.60449201e-02 3.05642083e-04 9.87948105e-03
+ 8.01580399e-03 1.50795458e-02 2.52790526e-02 2.10070863e-01
+ 4.40782402e-03 4.47039965e-05 3.23957345e-03 1.10718096e-02
+ 9.10947158e-04 9.79027059e-03 5.80661511e-03 2.49097180e-02
+ 1.97042781e-03 2.63505727e-02 1.30678751e-02 1.82040420e-03
+ 2.41800444e-03 3.46622709e-03 9.17151943e-03 2.32011620e-02
+ 1.30146947e-02 1.00832228e-02 3.75433685e-03 2.59945124e-01
+ 6.41008615e-02 2.91613047e-03 9.71731083e-07 4.40651007e-07
+ 2.13283021e-02 8.32488481e-03 1.17362477e-02 8.34913924e-03
+ 9.65593103e-03 6.73400285e-03 4.56722360e-03 3.66673991e-03
+ 1.52914505e-02 1.16169838e-06 5.07430375e-01 2.35205442e-02
+ 1.62087429e+00 8.96981533e-07 6.97667850e-03 1.16504577e-03
+ 9.74450202e-04 1.16996551e-02 1.97314378e-02 3.47082578e-02
+ 3.18116951e-03 8.02846551e-02 8.15804582e-03 7.47327181e-03
+ 4.04712139e-03 5.75441821e-03 1.07767155e-05 2.68436270e-03
+ 9.08940434e-02 4.33209091e-02 1.46564588e-01 8.80683139e-02
+ 4.60467814e-03 1.06248930e-02 6.87927287e-03 2.44365428e-02
+ 7.31190710e-07 9.62662324e-03 4.20414409e-07 3.56692402e-03
+ 4.76542340e-07 9.62947402e-03 1.78580917e-02 2.99182837e-03
+ 3.45530994e-02 4.62750755e-02 1.37792733e-02 1.42543064e-02
+ 2.37852079e-03 2.30426993e-03 6.47023960e-04 2.60252552e-03
+ 4.82137830e-06 2.64037196e-02 4.38838935e-04 1.45294191e-02
+ 3.88563251e-07 1.44488886e-02 1.28253344e-02 2.00188756e-02
+ 3.18581908e-04 2.61200767e-04 3.67999718e-07 8.38239619e-04
+ 1.42414578e-07 4.57244273e-03 5.67210652e-02 1.27158286e-02
+ 1.76807493e-02 8.10593410e-05 8.99253972e-03 8.10169522e-03
+ 9.86884069e-03 1.05276913e-03 2.42169220e-02 1.47716226e-02
+ 5.48492153e-07 7.54390436e-04 2.24374253e-02 2.23221741e-06
+ 2.89076427e-03 2.20393915e-07 1.28775433e-01 1.13491826e-02
+ 6.03258513e-07 5.29704662e-03]
+after=[4.30001052e-07 5.19886669e-07 5.48334792e-03 1.46394782e-03
+ 3.07047026e-06 5.86394151e-07 7.54763846e-07 4.90846066e-03
+ 3.78418667e-03 1.45014152e-01 7.40399733e-02 3.93956481e-03
+ 7.45290833e-07 4.93202720e-07 4.83414344e-03 1.26883551e-01
+ 9.85827744e-02 3.32996933e-07 3.69056594e-03 4.36618953e-04
+ 5.21036738e-04 1.06554031e+00 2.33161584e-01 4.99002449e-03
+ 9.78101119e-02 3.86989489e-02 1.09730093e-02 4.51624175e-07
+ 2.95785497e-07 6.26224130e-02 5.44480421e-02 6.16029240e-02
+ 4.84120619e-07 3.15008797e-02 1.06868774e-01 1.36629824e-04
+ 1.23510189e-01 4.68737852e-07 1.32638197e-02 3.24132520e-06
+ 1.10121323e-06 4.36228782e-01 5.86587078e-07 2.50916951e-03
+ 1.27867466e-07 1.59089026e-07 3.19762141e-01 1.53149443e-07
+ 3.84751074e-02 9.11773965e-02 1.15599185e-07 6.41880035e-07
+ 1.71833124e-03 1.11155093e-01 1.43914775e-07 1.98696577e-03
+ 2.32589953e-02 8.06621188e-07 9.90033388e-01 6.90695401e-07
+ 8.93366064e-07 5.06721903e-03 7.39876043e-07 2.65609117e-07
+ 3.80034123e-07 3.07069428e-07 7.97659482e-07 2.87126483e-07
+ 9.71282274e-03 4.03638836e-03 9.23558399e-02 2.15230102e-06
+ 3.57021141e-04 4.32047341e-03 2.63130292e-02 2.02066228e-02
+ 1.23778984e-01 2.57079140e-03 7.32885487e-03 3.15625075e-05
+ 7.99715690e-06 9.46071073e-02 5.56765357e-03 4.87286923e-03
+ 2.17048042e-02 1.45198405e-03 7.41798943e-03 6.90483442e-03
+ 5.70749082e-02 7.34895235e-03 1.23282652e-02 2.86973622e-02
+ 5.62865427e-03 5.89417061e-03 1.76021215e-02 5.69934912e-07
+ 5.64631478e-07 2.58894381e-03 6.54237391e-03 1.82476583e-06
+ 2.57991757e-02 1.18875198e-01 5.14259739e-07 7.62038439e-07
+ 1.73448101e-02 5.16652055e-02 2.55232891e-07 1.74596861e-01
+ 2.32353993e-03 4.65881042e-02 8.43922123e-07 4.26892456e-07
+ 5.28729614e-03 2.61460282e-02 8.64641443e-02 5.80173731e-02
+ 8.50535482e-02 9.97831207e-03 3.47047416e-03 4.17242805e-03
+ 5.09379618e-07 1.79165661e-01 4.69380710e-03 2.65654107e-03
+ 1.24890533e-07 5.48057642e-07 3.37051272e-01 1.96188226e-01
+ 6.75795081e-06 4.94907722e-02 1.89442949e-06 1.66966375e-02
+ 2.71705299e-04 1.38035323e-03 5.15126400e-02 1.89926326e-02
+ 8.03851187e-02 8.48897733e-03 1.19424692e-06 2.54601359e-01
+ 1.52501697e-03 7.31054388e-06 1.39208196e-03 6.17952133e-03
+ 2.26055363e-06 2.69788224e-02 4.26541232e-02 5.00913186e-04
+ 1.07777312e-01 1.93116620e-01 1.19202258e-02 8.50510219e-07
+ 1.47106370e-03 2.12444514e-02 7.47603038e-03 1.64864460e-07
+ 5.41349873e-04 2.07740697e-03 4.45229560e-02 2.04511366e-07
+ 5.08912373e-03 3.89586747e-01 1.24423637e-03 1.35807440e-01
+ 1.39118079e-03 1.33836211e-03 7.16994284e-03 9.34881344e-03
+ 1.40226912e-03 8.76730531e-02 1.05142742e-01 7.54022449e-02
+ 8.06254428e-03 2.70975707e-03 4.15758090e-03 3.27701904e-02
+ 8.90598017e-07 9.17382386e-06 1.99797619e-02 2.30670912e-06
+ 1.12354974e-06 2.04620446e-05 7.91554726e-07 1.89779438e-02
+ 2.27722762e-06 3.07242153e-03 3.19960905e-04 1.43682829e-03
+ 1.20122604e-06 2.46304757e-04 3.75115216e-01 2.87645707e-06
+ 4.33534663e-03 1.01082742e-05 1.87471118e-02 1.12225814e-06
+ 1.84934891e-06 1.49430090e-03 4.02304530e-03 7.52296951e-03
+ 6.74130774e-07 9.95409442e-04 1.66469101e-06 2.02870294e-02
+ 5.30772866e-07 1.58051088e-01 1.02892601e+00 1.64160576e-06
+ 3.44786490e-03 5.66441522e-05 7.11236055e-07 1.67393265e-03
+ 5.04450407e-04 1.28332451e-02 1.69453189e-01 2.05358927e-04
+ 6.31764473e-04 1.72729380e-02 3.21959592e-02 1.07853411e-05
+ 5.80515638e-02 2.98535847e-03 1.89061058e-04 3.11215285e-06
+ 3.98533531e-02 1.12494662e-01 1.30385654e-02 1.07074538e-02
+ 1.94677450e-02 4.04274613e-02 1.42816009e-06 5.15611982e-03
+ 3.51423836e-07 5.56077110e-03 3.57405096e-03 1.40258148e-02
+ 1.99777279e-02 4.52380218e-02 1.12121187e-01 3.44836950e-01
+ 7.48670055e-03 6.04629457e-01 1.19407264e-06 2.75970483e-03
+ 1.96042331e-03 1.35376230e-01 5.16810734e-03 9.79047968e-07
+ 2.36972686e-04 3.56978597e-03 5.02370414e-04 4.63381672e-04
+ 4.95630840e-04 9.07166451e-02 7.32726511e-03 4.55896109e-02
+ 7.17471607e-07 6.20734870e-01 2.72669212e-07 2.34196684e-03
+ 3.11120376e-02 1.54432996e-06 3.45586287e-03 2.07236316e-03
+ 1.62488166e-02 5.47209289e-03 2.65535054e-04 8.07661081e-07
+ 4.53250483e-03 1.54332588e-06 4.53047045e-02 2.17224155e-02
+ 1.75084509e-02 4.60130833e-02 4.71153148e-02 7.14782800e-07
+ 8.97808611e-01 1.08589763e-02 2.62470148e-03 4.45943499e-07
+ 2.41778180e-04 1.41935209e-06 1.69206446e-03 3.13148126e-02
+ 6.43308198e-08 8.50765500e-03 4.27156612e-02 1.99951064e-02
+ 1.19647803e-03 7.88632306e-08 5.04219788e-04 3.54742981e-03
+ 6.56228885e-03 1.20550795e-02 2.46394537e-02 6.67473255e-03
+ 4.51572146e-03 9.43783019e-03 2.56195453e-05 2.87793446e-02
+ 3.37769575e-02 7.89178628e-03 2.14262237e-03 8.82028230e-03
+ 1.14826614e-03 4.37570410e-03 6.33436457e-07 9.62434616e-03
+ 2.97972676e-03 6.68770141e-08 1.40464762e-02 2.27659693e-05
+ 1.27160773e-02 1.71627682e-02 9.51489909e-08 5.40638903e-05
+ 4.12167143e-03 1.98922658e-06 2.84209717e-02 1.93732575e-07
+ 4.56595814e-07 2.32204997e-07 7.33066770e-07 1.51575403e-03
+ 1.99354917e-01 1.22554608e-01 1.04350951e-02 2.46437956e-02
+ 9.88236070e-02 1.01452391e-03 1.34864561e-02 1.59347235e-06
+ 6.96148447e-07 3.99733744e-06 3.06559610e-03 4.41430416e-07
+ 1.71613670e-03 6.14367900e-06 2.52895262e-07 5.70809888e-03
+ 1.12444945e-01 1.61560364e-02 1.79832010e-03 9.81145073e-03
+ 5.59288263e-02 2.36723076e-06 3.48003368e-07 9.41182122e-07
+ 8.34234868e-07 1.90448239e-02 6.67336723e-03 1.23094849e-03
+ 1.74974491e-06 6.64188480e-03 1.09110720e-01 3.72551590e-01
+ 5.94836427e-03 4.13525850e-04 2.32190400e-01 3.34081613e-02
+ 2.11213380e-02 2.98991310e-03 4.17790934e-02 4.71250360e-06
+ 3.88110913e-02 1.12288836e-02 3.18392389e-03 1.14925439e-02
+ 5.98819228e-04 7.43454336e-07 1.99473687e-02 1.42282364e-03
+ 3.74794053e-03 1.33249238e-01 3.79898294e-04 3.28880106e-03
+ 5.92230959e-03 1.34157930e-02 1.43494271e-02 1.45723090e-01
+ 2.55705472e-02 1.25516939e-03 2.95568397e-03 8.66481569e-03
+ 8.06089491e-04 6.13417197e-03 3.99811193e-03 7.44343363e-03
+ 3.40523035e-03 1.92272086e-02 1.24561535e-02 1.56726432e-03
+ 2.08810903e-03 8.67420400e-04 1.11545771e-02 9.80138332e-02
+ 6.02628104e-03 2.30686069e-02 1.37144960e-02 7.92390108e-01
+ 5.33979386e-02 2.28119688e-03 8.68901907e-07 4.97556130e-07
+ 3.38246264e-02 7.95078557e-03 8.19244795e-03 3.81630589e-03
+ 1.12600299e-02 5.42901922e-03 1.79110921e-03 2.56178132e-03
+ 1.45817725e-02 1.84757550e-06 5.76866150e-01 3.81881334e-02
+ 4.41726059e-01 8.30588760e-07 5.50381420e-03 2.96533573e-03
+ 9.43345658e-04 1.28982123e-02 6.05377331e-02 3.59191261e-02
+ 1.90037745e-03 5.29189818e-02 1.36127407e-02 7.40782358e-03
+ 1.26556889e-03 6.52746344e-03 9.74861450e-06 2.11715628e-03
+ 6.51694238e-02 5.79771772e-02 1.66114450e-01 5.96820526e-02
+ 3.28365644e-03 1.02444580e-02 1.57714216e-03 2.16608532e-02
+ 8.84923907e-07 8.92934203e-02 3.21457236e-07 5.19645074e-03
+ 3.95909296e-07 4.78275912e-03 1.53792435e-02 2.79357121e-03
+ 4.31639850e-02 5.81130497e-02 2.16251961e-03 3.54417157e-03
+ 2.12343875e-03 1.81490649e-03 1.67727415e-02 4.28235561e-01
+ 1.40564589e-04 3.55677128e-01 1.66543119e-04 5.61536290e-03
+ 6.96740926e-07 1.56362057e-01 1.58681907e-02 5.22271544e-03
+ 1.61022672e-05 6.84178303e-05 4.48384071e-07 6.99323881e-03
+ 8.84838229e-08 1.18774048e-03 2.82003045e-01 2.47275978e-02
+ 2.88489349e-02 4.22472879e-03 3.06180231e-02 7.86290504e-03
+ 1.25163537e-03 9.81797464e-04 7.61877932e-03 1.47939110e-02
+ 2.11522074e-05 7.35745125e-04 3.75569947e-02 2.29047896e-06
+ 2.20485905e-04 1.81749314e-07 8.24687481e-01 1.31625580e-02
+ 1.14501609e-06 4.82244533e-04]
+
+bcn_sigmoid_offset before=[ 0.5131372   0.4446773  -0.08651232 -0.21386455 -0.27607507 -0.16719131
+  0.04701351 -0.27006754 -0.06904245  0.23006676 -0.10075998  0.0367836
+ -0.14876595 -0.5072206 ]
+after=[-0.06657092 -0.35499918 -0.0808818  -0.0662391  -0.13243213 -0.24126418
+ -0.04593997 -0.41631666 -0.0539893   0.01313789 -0.1343392  -0.11887808
+ -0.07918199 -0.27193505]
+
+acl_acg_weight before=[1.14515592e-06 6.25396252e-01 2.87631620e-02 7.31330970e-03
+ 3.44314091e-02 9.98377004e-07 1.53576889e-06 3.49670947e-02
+ 1.58086073e-06 1.11533791e-06 1.13203566e-06 1.67633038e-06
+ 9.62094987e-07 5.41201132e-07 1.04415994e-06 3.11448257e-02
+ 6.58008968e-03 3.39102268e-01 2.18745026e-06 7.79325664e-02
+ 2.19414942e-02 1.00454190e-06 4.50881477e-03 1.32182781e-02
+ 1.56560764e-02 1.36485890e-01 1.89201087e-02 5.79140261e-02
+ 1.13752037e-06 4.95282141e-03 2.42267512e-02 7.77684525e-02
+ 1.87410619e-02 4.33775574e-01 1.89119950e-02 3.98919210e-02
+ 1.53255155e-06 8.79421805e-07 7.92015328e-07 4.73531693e-01
+ 9.49277933e-07 1.18130888e-03 5.06376964e-04 1.58811542e-06
+ 8.57583188e-07 1.00289043e-02 3.40082007e-03 9.81086167e-04
+ 2.32706356e+00 3.71218659e-03 1.58447884e-02 1.01298586e-01
+ 4.53982223e-03 1.61279827e-01 9.27923713e-03 9.76621550e-07
+ 1.20445293e-06 1.06281448e-06 7.53801373e-07 3.49079400e-01
+ 3.02710813e-02 5.25171572e-06 2.85879135e-01 8.21367931e-03
+ 8.95303060e-07 5.47161810e-02 2.03514714e-02 9.76670086e-02
+ 9.10308864e-03 7.99542516e-02 1.08328572e-06 9.01679812e-07
+ 1.25825113e-06 2.68915412e-03 7.63418735e-04 1.67271346e-02
+ 1.08869761e-01 2.15059699e-05 8.77238904e-07 6.93412684e-03
+ 1.09476082e-06 1.57675147e-01 9.55349766e-03 1.07396716e-06
+ 1.09954793e-02 9.59756335e-07 1.16847502e-06 6.61533466e-03
+ 4.59196687e-01 1.93420891e-02 1.12114571e-06 4.71758209e-02
+ 5.61620900e-03 5.40105999e-01 8.53816327e-03 1.41003216e-06
+ 2.20737886e+00 4.33714241e-02 6.96895048e-02 1.30161141e-06
+ 9.05243959e-03 1.63920783e-02 2.14588456e-02 1.36726332e+00
+ 8.72535282e-04 2.26216684e-06 2.33956650e-01 1.25398060e-06
+ 5.89626253e-01 1.50071799e-06 1.06306481e-06 4.40537065e-01
+ 2.53374010e-01 1.30059347e-02 9.59165163e-07 1.28137310e-06
+ 3.32173586e-05 1.87954605e-02 3.90390366e-01 7.97530264e-03
+ 1.19979111e-02 2.64606024e-06 6.00831584e-07 2.14007764e-06
+ 2.17168387e-02 2.87577789e-02 1.02952790e+00 3.81614943e-03
+ 1.55189969e-02 5.55024343e-03 2.00991500e-02 1.85547441e-01
+ 7.00974017e-02 9.68337758e-07 1.82131846e-02 9.03049558e-02
+ 2.79271491e-02 9.79300125e-07 1.02758258e-06 2.87083888e+00
+ 1.21714766e-06 1.97575968e-02 8.55759345e-03 2.29517277e-02
+ 3.03112585e-02 1.22067463e-02 1.07403991e-06 4.54818495e-02
+ 2.56716851e-02 9.56063786e-07 8.95510241e-03 1.41192758e-02
+ 7.95841683e-03 1.43449414e+00 6.79891277e-03 9.13350284e-03
+ 1.02425283e-02 7.56980589e-05 5.41677177e-02 9.02440320e-07
+ 2.51408536e-02 1.61861840e-06 1.80992151e-06 3.56908942e-07
+ 8.82259980e-02 7.11651593e-02 6.76401258e-01 1.33401882e-02
+ 2.32551042e-06 9.79954052e-07 9.40557569e-02 2.07600631e-02
+ 2.24197786e-02 1.01816238e-06 1.37653379e-02 1.11483587e-06
+ 1.03582977e-06 1.06466382e-06 1.90934986e-02 9.84624876e-07
+ 4.16818969e-02 1.48207908e-02 2.61397599e-06 9.95726054e-07
+ 1.07581299e-02 3.67343128e-02 1.22651095e-02 1.84380282e-02
+ 2.33593524e-01 1.68063915e+00 3.39995511e-02 6.09698355e-01
+ 5.03903255e-03 7.96622097e-01 5.60746156e-03 9.33555953e-07
+ 1.21131495e-06 6.19912380e-03 2.38585044e-02 1.01898911e-06
+ 2.34026345e-03 6.81550289e-03 2.56953210e-01 2.53361743e-02
+ 9.76262982e-07 1.84684861e-02 1.07168967e-06 1.74751375e-02
+ 7.42992881e-07 6.71919389e-03 1.21055734e-06 2.97385418e-06
+ 5.15914708e-03 3.54013150e-03 1.50604001e-06 2.90772244e-02
+ 2.15684734e-02 1.21063010e-06 7.74025679e-01 9.42969109e-07
+ 8.13743547e-02 1.26699999e-01 3.05022001e-01 4.63454947e-02
+ 6.56742882e-03 1.72023715e-06 4.88699585e-01 3.86685789e-01
+ 3.59195381e-01 6.39985874e-02 5.80062680e-02 1.31845981e-01
+ 3.01344275e-01 3.92805077e-07 4.90933992e-02 4.94828559e-02
+ 1.18752930e-03 1.09565485e-06 6.45832777e-01 1.03247748e-06
+ 4.04018126e-02 1.10271722e-01 1.78658497e-02 7.44001288e-03
+ 1.58974994e-02 1.25013590e-02 2.72081941e-01 2.63816267e-02
+ 3.19740832e-01 1.00664329e-03 3.19916196e-02 2.77616233e-01
+ 9.16930560e-07 5.91453444e-03 1.04395190e-06 1.95627548e-02
+ 1.28498061e-06 1.04914875e-06 3.22512239e-02 6.13323487e-02
+ 1.08732547e-06 9.98032512e-04 6.04538573e-03 5.46346717e-02
+ 6.44742921e-02 5.70941670e-03 9.18770151e-04 8.12351704e-03
+ 4.96638082e-02 2.08631121e-02 1.21683963e-02 9.34992358e-03
+ 1.59762055e-02 1.95105765e-02 3.16597112e-02 2.12878734e-02
+ 1.41886836e-02 9.08693721e-07 6.31412715e-02 1.78271718e-03
+ 8.90043285e-03 9.94927746e-07 7.41960548e-07 3.52386093e+00
+ 1.12693215e-06 1.53631847e-02 6.49263430e-03 1.06405849e-02
+ 1.36935967e-06 8.61075137e-07 1.01864225e-06 2.81584710e-01
+ 1.03857768e-04 1.76339373e-01 2.34037340e-02 1.45510305e-02
+ 1.11005227e-06 1.10369353e-02 5.31784713e-01 9.03598618e-07
+ 1.68528482e-01 4.10233252e-02 1.57513201e-01 2.19414398e-01
+ 1.17295440e-06 3.18667203e-01 1.59985960e-01 2.95138024e-02
+ 3.54214058e-06 1.61669001e-01 1.69138853e-02 1.32683709e-01
+ 2.74479768e-04 2.33076155e-01 2.43461952e-02 4.87639988e-03
+ 9.08342827e-07 8.63711536e-03 8.07658434e-01 1.97579246e-03
+ 1.29513135e-02 2.84178760e-02 1.15717933e-06 9.83026098e-07
+ 2.28328910e-02 2.06425637e-02 2.15625480e-01 5.39421197e-03
+ 3.65324761e-03 1.04386129e-06 1.11777956e-06 1.11561235e-06
+ 4.26765829e-02 5.43977246e-02 1.02509944e-06 1.28554525e-02
+ 4.93306406e-02 9.90075525e-03 1.48313097e-03 9.76866670e-03
+ 7.28594810e-02 2.10468988e-06 8.60334396e-01 1.10999104e-02
+ 1.32689991e-06 5.83708845e-02 7.68521726e-01 1.57433048e-01
+ 2.81084795e-06 6.54441976e-07]
+after=[1.1092829e-06 7.9164988e-01 2.7105441e-02 6.8617589e-03 3.0832261e-02
+ 1.0665663e-06 1.4282309e-06 2.7484853e-02 1.4371406e-06 8.7118531e-07
+ 1.2022415e-06 1.6433602e-06 1.0328488e-06 5.6158547e-07 1.0391027e-06
+ 2.3555523e-02 7.8718029e-03 3.0817990e+00 2.1981950e-06 8.2215565e-01
+ 1.9717272e-02 2.0196815e-06 2.6807326e-03 2.4728477e-02 8.7639447e-03
+ 1.7758493e-01 1.8019587e-02 9.8882802e-03 8.8511212e-07 1.3945083e-03
+ 2.2935541e-02 6.5673776e-02 1.3660449e-02 2.9221007e-01 1.5187007e-02
+ 3.4585156e-02 1.6368377e-06 7.6269936e-07 8.0261714e-07 7.7773565e-01
+ 8.9877716e-07 2.4927184e-03 4.0019531e-04 1.3554173e-06 9.2914513e-07
+ 1.2061692e-02 4.7100936e-03 1.0995405e-03 1.9251491e+00 1.2790364e-03
+ 1.4634971e-02 1.0144248e-01 6.3043139e-03 1.5624130e-01 8.1541212e-03
+ 9.5995495e-07 1.1151092e-06 1.0932741e-06 8.1209521e-07 2.2263771e-01
+ 3.1241618e-02 5.6260428e-06 2.9243529e-01 7.6722759e-03 8.2600405e-07
+ 5.9113432e-02 2.2071902e-02 3.2356977e-02 1.0778767e-02 9.5249102e-02
+ 1.0839368e-06 9.1710638e-07 1.1512628e-06 1.9143035e-03 6.7431474e-04
+ 1.6112791e-02 2.2067791e-01 9.0827134e-06 8.8683834e-07 6.7614517e-03
+ 1.0633538e-06 1.2574849e-01 8.1718089e-03 1.0331364e-06 6.8010660e-03
+ 9.6150791e-07 9.1412528e-07 6.7226481e-01 6.6288251e-01 6.1701727e-03
+ 1.1061624e-06 6.3277647e-02 4.9219211e-03 4.1996846e-01 7.4865543e-03
+ 1.2328793e-06 1.2632606e+00 3.5160325e-02 6.7720577e-02 1.4559641e-06
+ 7.6798671e-03 5.8436789e-02 1.5682558e-02 8.9766550e-01 1.1820690e-03
+ 2.1646601e-06 3.5407457e-01 1.1969287e-06 4.1680107e-01 1.4216035e-06
+ 1.0870569e-06 4.8222783e-01 2.9294080e-01 1.3921929e-02 8.6301367e-07
+ 1.3626351e-06 3.5252015e-05 9.3478421e-03 3.4599417e-01 4.5294561e-03
+ 1.4406056e-02 4.1567596e-06 4.8585554e-07 1.2661077e-06 6.9944732e-02
+ 2.4203537e-02 6.8281460e-01 1.3659582e-01 1.6820492e-02 1.6196144e-03
+ 2.2271659e-02 3.5791594e-01 1.0120458e-01 8.3227604e-07 1.5679963e-02
+ 7.7750042e-02 2.9447773e-02 8.9418694e-07 1.0034772e-06 3.2364335e+00
+ 1.1353289e-06 7.5971871e-03 3.5770807e-02 2.4348529e-02 2.4732063e-02
+ 1.0730787e-02 1.0441261e-06 2.0617276e-02 1.8344596e-02 1.1345551e-06
+ 7.8488421e-03 7.5940125e-02 1.9570040e-03 1.3554647e+00 4.0581925e-03
+ 5.1177754e-03 5.5429516e-03 1.2721274e-03 2.7098909e-02 8.2495387e-07
+ 2.1423278e-02 2.7439023e-06 1.8797622e-06 3.0864015e-07 1.1609067e-01
+ 1.0821161e-01 6.6503453e-01 1.9516773e-03 2.0277835e-06 7.8299041e-07
+ 9.0866029e-02 5.4217100e-02 1.9357003e-02 9.7366888e-07 1.1916333e-02
+ 1.1938108e-06 1.0447865e-06 1.0377994e-06 1.7258868e-02 9.5531459e-07
+ 3.3645853e-02 8.9081349e-03 2.1133887e-06 7.5178474e-07 9.0917619e-03
+ 2.5057392e-02 6.2440094e-03 9.6233273e-03 2.6977178e-01 7.8085852e-01
+ 2.8466966e-02 8.6950314e-01 2.6115717e-03 5.1472443e-01 4.1885949e-03
+ 9.0480495e-07 1.3055934e-06 7.7068561e-04 1.9902604e-02 1.0612911e-06
+ 2.2558267e-03 6.1159618e-03 1.8778120e-01 1.8916531e-02 9.7993450e-07
+ 1.8852044e-02 1.1600931e-06 1.3268931e-03 7.8194944e-07 6.6913227e-03
+ 1.0331552e-06 4.1231924e-06 3.0447156e-03 2.6221471e-03 1.1443066e-06
+ 1.5731405e-02 2.0377735e-02 7.9862315e-07 6.6512775e-01 9.2892981e-07
+ 5.6765307e-02 2.7899277e-01 2.3939516e-01 3.2718554e-02 6.9500129e-03
+ 1.7479186e-06 5.3660494e-01 3.9077740e-02 2.4476692e-01 1.6373649e-02
+ 8.3497167e-02 9.3563661e-02 3.2455114e-01 4.4412869e-07 3.4428865e-02
+ 3.2001738e-02 9.5448783e-04 1.3913897e-06 8.4830129e-01 1.6799377e-06
+ 2.7539013e-02 2.0165956e-01 1.2609896e-02 5.0434438e-03 1.2752856e-02
+ 1.1679393e-02 2.8296328e-01 4.3807793e-03 2.1481411e-01 2.6736589e-04
+ 3.5462815e-02 1.4745668e+00 9.0068289e-07 4.7239084e-03 1.1244105e-06
+ 1.8660992e-02 1.4035762e-06 1.0189229e-06 2.5842557e-02 1.1206934e-01
+ 1.0868652e-06 2.0495774e-03 6.0564135e-03 3.7729472e-02 8.6631738e-02
+ 5.6300554e-03 7.5984909e-04 6.1801723e-03 5.2258816e-02 2.9273625e-02
+ 1.2954142e-02 2.3997543e-02 7.1991412e-03 1.3984357e-02 2.8810911e-02
+ 1.8133270e-02 1.6936168e-02 9.0466693e-07 7.9127938e-02 1.0984631e-03
+ 9.1386260e-03 1.0631936e-06 6.2801388e-07 2.0030174e+00 1.3902489e-06
+ 1.3472418e-02 1.2375242e-02 5.2650206e-02 1.3357277e-06 8.5821068e-07
+ 1.0259307e-06 2.7271450e-01 1.1493179e-04 1.9541542e-01 3.7657347e-02
+ 1.3310095e-02 1.3018746e-06 3.4108192e-02 4.2457137e-01 1.0599256e-06
+ 1.2780139e-01 2.2167319e-02 9.3175359e-02 1.5024595e-01 1.0029750e-06
+ 1.8053722e-01 5.7611380e-02 1.2296368e-02 4.4737412e-06 9.9842004e-02
+ 1.8767679e-02 2.0124276e-01 1.5107196e-04 2.2565775e-01 2.7986638e-02
+ 4.9732351e-03 7.8586606e-07 2.0731544e-02 7.2446662e-01 1.5647524e-03
+ 1.1560957e-02 2.8592154e-02 1.0585478e-06 8.7458920e-07 1.7728753e-02
+ 1.6287509e-02 1.6003408e-01 5.3355377e-04 5.0863167e-03 1.0353340e-06
+ 1.1172680e-06 1.1354415e-06 2.8413452e-02 4.3077461e-02 1.0409922e-06
+ 1.0571138e-02 8.5080788e-02 4.6131789e-04 1.7323080e-03 1.4199256e-02
+ 5.6544214e-02 4.1078383e-06 8.2561600e-01 7.9064798e-03 1.4867448e-06
+ 7.4457854e-02 6.8583095e-01 2.5411485e-02 2.2001329e-06 5.4087297e-07]
+
+glycinergic_amacrine_cells.bc_ac_weight before=[1.31354183e-01 3.60173061e-02 7.47292629e-03 1.83421336e-02
+ 2.41742637e-02 6.55566305e-02 5.80644943e-02 7.46968463e-02
+ 3.46351266e-02 3.50886919e-02 1.28065556e-01 1.35836288e-01
+ 1.92270026e-01 8.88221487e-02 1.72375906e-02 3.69411544e-03
+ 3.22533445e-03 3.53069454e-02 6.78378046e-02 3.96482766e-01
+ 7.91967660e-02 5.92462160e-02 1.41048487e-02 3.75113450e-02
+ 2.64763951e-01 1.19244707e+00 5.57455011e-02 1.44895732e-01
+ 1.72380835e-01 8.01720098e-02 1.07507356e-01 9.90964379e-03
+ 4.51256657e+00 3.94257158e-03 5.31926472e-03 2.48428644e-03
+ 4.13814839e-03 1.68340758e-03 6.69470243e-03 2.70411768e-03
+ 2.31436756e-03 5.69856167e-03 3.16689730e-01 1.35554120e-01
+ 5.57761669e+00 1.77286172e+00 2.37263489e+00 6.14850642e-03
+ 4.95350128e-03 1.18340563e-03 4.73962573e-04 5.21175656e-03
+ 2.56911386e-02 2.06958782e-02 1.80668123e-02 4.94430074e-03
+ 1.20210461e-01 1.16710868e-02 7.18924042e-04 5.76989539e-03
+ 3.16093350e-03 4.47855264e-01 2.33054966e-01 8.26805644e-03
+ 3.22282687e-03 3.95261124e-02 3.44332643e-02 8.90182331e-02
+ 1.08210144e+01 5.63130938e-02 1.47556856e-01 1.44398764e-01
+ 2.17510372e-01 7.04207793e-02 3.76183987e+00 6.83009112e-03
+ 1.19985230e-02 4.29381104e-03 6.02561468e-03 7.05873594e-03
+ 1.42092193e-02 7.19048176e-03 6.17022859e-03 6.08928921e-03
+ 1.96916405e-02 4.59817704e-03 1.28465972e-03 1.26928082e-02
+ 3.82611483e-01 1.59660488e-01 2.08257794e-01 8.33970532e-02
+ 5.34703247e-02 2.88580537e-01 1.27723590e-01 7.38242790e-02
+ 6.07950449e-01 7.17134625e-02 6.11497052e-02 1.11834429e-01
+ 1.47442054e-02 1.60288101e-03 4.62371856e-01 1.17392850e+00
+ 1.66277066e-02 1.82590768e-01 2.66371923e-03 6.18973980e-03
+ 3.02781391e+00 5.66715794e-03 6.57930911e-01 1.10015318e-01
+ 1.89778239e-01 1.87927580e+00 1.21482262e-04 2.82235942e-05
+ 5.97416001e-05 6.19721115e-01 4.63522561e-02 1.42773462e-03
+ 5.83239174e+00 4.62809112e-03 1.38128877e-01 2.50248432e-01
+ 1.42938178e-02 1.02122575e-02 6.09900802e-02 1.76531263e-03
+ 3.10999639e-02 3.84103432e-02 1.31357014e-01 1.99818015e-02
+ 1.21761104e-02 9.93029177e-02 1.47157490e-01 5.90180084e-02
+ 5.09826243e-02 3.13728489e-02 9.18301404e-01 2.27856021e-02]
+after=[7.17490539e-02 1.08654657e-02 6.65864116e-03 1.18659595e-02
+ 1.71917304e-02 3.39376852e-02 7.70744234e-02 1.27123848e-01
+ 1.92215890e-02 5.37192784e-02 2.40941972e-01 2.10618824e-01
+ 1.52453780e-01 1.27472088e-01 1.52425440e-02 1.55658869e-03
+ 1.60483806e-03 3.20420228e-02 6.27749190e-02 3.25948179e-01
+ 5.62118180e-02 5.36427423e-02 1.06325354e-02 5.01751490e-02
+ 2.43228465e-01 1.27800810e+00 3.57108004e-02 1.39967427e-01
+ 8.37974191e-01 3.71639937e-01 2.16514349e-01 1.30772945e-02
+ 8.46160221e+00 1.08965032e-03 9.04780871e-04 4.58989642e-04
+ 1.76969019e-03 2.68542644e-04 1.34609616e-03 4.09666332e-04
+ 2.68057513e-04 1.83674577e-03 1.38127893e-01 4.26677093e-02
+ 1.26355896e+01 9.33319688e-01 6.99671030e+00 6.45525986e-03
+ 5.55228442e-03 7.55081419e-04 1.00958896e-04 7.03467056e-03
+ 5.44919223e-02 5.30284829e-02 7.46624470e-02 7.52741890e-03
+ 1.30654827e-01 9.16972663e-03 3.05231952e-04 2.15821760e-03
+ 1.31721329e-03 3.07457685e-01 3.03945303e-01 7.80429738e-03
+ 2.40606023e-03 2.00287133e-01 2.41806097e-02 9.84488204e-02
+ 1.15853996e+01 4.26556468e-02 8.37401673e-02 1.04124796e+00
+ 2.34583035e-01 1.04571596e-01 5.54222488e+00 2.71320390e-03
+ 2.67013372e-03 1.29880791e-03 3.36159673e-03 2.22326163e-03
+ 2.98279012e-03 2.19156593e-03 1.72069506e-03 2.51477398e-03
+ 2.25119174e-01 6.55670762e-02 8.55720544e-04 2.20875852e-02
+ 1.26223195e+00 4.96339053e-02 1.27816185e-01 4.17824499e-02
+ 3.69771346e-02 3.25237960e-01 4.53221947e-02 5.24614751e-02
+ 7.85157859e-01 4.11402732e-02 1.46746612e-03 2.37228218e-02
+ 1.09562734e-02 5.79898944e-04 2.91105002e-01 6.31366313e-01
+ 3.87479621e-03 8.87884423e-02 5.95252356e-03 2.98472238e-03
+ 2.04453397e+00 1.40939967e-03 1.56195176e+00 1.09690368e-01
+ 3.35427523e-02 6.74609959e-01 1.14254661e-04 3.26605891e-06
+ 2.01676648e-05 1.02085662e+00 3.47802192e-02 1.33588002e-03
+ 9.62834549e+00 1.68642204e-03 1.49065912e-01 1.34403005e-01
+ 6.49274560e-03 7.63771962e-03 2.05485150e-02 2.79560871e-03
+ 1.74882673e-02 2.64133401e-02 1.18652493e-01 6.58646505e-03
+ 2.90323421e-03 5.32450788e-02 1.42849490e-01 2.76732426e-02
+ 1.91857163e-02 1.20425094e-02 1.38253403e+00 1.69369765e-02]
+
+glycinergic_amacrine_cells.ac_tau_rise before=[0.08422489 0.04213196 0.13691951 0.00178826 0.04438388 1.5112455
+ 0.06644009 0.00796761 0.01968007 0.04433206]
+after=[9.2038937e-02 5.4517444e-02 1.7931958e-01 1.7461244e-03 4.4167407e-02
+ 1.9611789e+00 4.1995283e-02 4.3346211e-03 1.2695193e-02 4.6401606e-03]
+
+glycinergic_amacrine_cells.ac_tau_decay before=[0.06470642 0.13878857 0.02860072 0.00202681 0.02597379 0.63112503
+ 0.03770158 0.01232813 0.00984975 0.4243709 ]
+after=[0.06966593 0.1939783  0.02725144 0.00173546 0.02685159 0.73687875
+ 0.03112966 0.00786079 0.01133194 0.51190656]
+
+glycinergic_amacrine_cells.ac_sigmoid_slope before=[ 0.37299353  4.2793484   4.0175824   2.8530366   4.3412833   6.057741
+  2.0404818   6.9637837   2.7001128  19.631172  ]
+after=[0.515121  3.6677113 6.5363574 3.8281255 4.124013  3.408798  4.164852
+ 5.6241236 3.2124841 6.3282547]
+
+glycinergic_amacrine_cells.ac_sigmoid_offset before=[0.40440217 1.751905   0.8769136  1.2052493  1.3214716  2.1832404
+ 1.243494   1.6993228  1.3876983  2.2548084 ]
+after=[0.5722637  1.8389624  0.69665116 0.8424617  1.3204085  1.7438737
+ 1.1359785  2.0079572  1.2033746  2.218577  ]
+
+gabaergic_amacrine_cells.bc_ac_weight before=[4.78637442e-02 3.18459868e-02 5.95505595e-01 4.87949848e-02
+ 2.49724209e-01 1.28948307e-02 1.94126070e-02 2.06550378e-02
+ 1.46994889e-02 5.25269061e-02 2.79497430e-02 1.91195179e-02
+ 4.82364036e-02 2.32521258e-02 2.74055451e-02 2.82391720e-02
+ 1.02413418e-02 1.61753297e-02 2.27717478e-02 1.79066852e-01
+ 1.35811970e-01 1.48851246e-01 2.75308397e-02 1.33162946e-01
+ 7.66253099e-02 6.68737030e+00 1.33607760e-01 3.03307846e-02
+ 1.01598918e-01 7.12532401e-02 7.97410160e-02 3.40871716e+00
+ 1.12212062e-01 2.51979567e-02 2.26916447e-02 2.33763363e-02
+ 1.62372515e-02 2.62979530e-02 2.36236323e-02 2.43798494e-02
+ 1.09134682e-01 1.90587789e-02 4.46703248e-02 5.22233546e-02
+ 2.63921320e-02 3.08383405e-02 7.50872418e-02 7.68435299e-02
+ 6.41310960e-02 2.44529303e-02 5.81467561e-02 1.86085254e-01
+ 7.82920346e-02 4.91844304e-02 9.83937681e-02 3.85724269e-02
+ 3.11207846e-02 2.36224718e-02 1.72104597e-01 1.05829783e-01
+ 6.87642768e-02 1.41979223e-02 2.00373664e-01 1.18624177e-02
+ 1.36141172e-02 4.14831460e-01 1.10020302e-01 1.87407315e+00
+ 2.88386941e+00 3.92061137e-02 3.31379510e-02 4.02695723e-02
+ 3.91637273e-02 3.22412290e-02 7.70724937e-03 2.89171021e-02
+ 9.50541571e-02 1.90691557e-02 1.29276207e-02 3.77859510e-02
+ 5.77608871e+00 1.94840476e-01 1.08857214e+00 5.75188920e-02
+ 3.76781896e-02 4.07181419e-02 5.72766969e-03 2.96710804e-03
+ 2.76742177e-03 2.20444822e+00 9.45102155e-01 2.24926412e-01
+ 2.59386003e-01 3.83433029e-02 2.78775185e-01 5.81167316e+00
+ 2.01675907e-01 8.06065500e-02 2.79802326e-02 3.32124904e-02
+ 1.06658768e-02 5.54868486e-03 1.45296687e-02 2.35792231e-02
+ 5.46339937e-02 2.06678156e-02 1.60192356e-01 3.64501029e-02
+ 4.53330688e-02 6.27705008e-02 1.42031565e-01 7.71154314e-02
+ 8.34294707e-02 9.14118439e-02 1.33735361e-02 4.90225181e-02
+ 4.44718115e-02 2.35669482e-02 3.95332091e-02 1.46665750e-02
+ 1.22779766e-02 4.82082367e-02 8.12044814e-02 4.79404889e-02
+ 1.32836938e-01 4.61504720e-02 1.31151125e-01 9.49245989e-02
+ 6.71834850e+00 2.25884914e-01 5.74263275e-01 2.24848762e-02
+ 9.16905329e-03 3.01801022e-02 6.99317753e-02 1.62718818e-02
+ 2.11089235e-02 2.62688454e-02 7.04878010e-03 1.79602783e-02
+ 4.49246973e-01 1.99941859e-01 1.80014706e+00 3.11094135e-01
+ 7.23147690e-02 9.69975721e-03 3.02552502e-03 4.28089872e-03
+ 2.15707044e-03 4.79325233e-03 4.62536188e-03 4.96457517e-03
+ 4.48917877e-03 3.27982567e-03 1.23028666e-01 7.26500079e-02
+ 1.31415710e-01 2.92312503e-02 4.96445954e-01 1.60329845e-02
+ 1.55415386e-02 8.68753251e-03 1.25632267e-02 1.01655154e-02
+ 1.43918991e-02 9.06112883e-03 5.98958042e-03 1.12644127e-02
+ 3.40639018e-02 3.25562842e-02 9.18941107e-03 1.05496412e-02
+ 3.04021332e-02 1.25485342e-02 3.24438214e-02 2.28792652e-02
+ 1.53088067e-02 9.29874003e-01 4.24708836e-02 9.80032310e-02
+ 4.38600153e-01 1.55359963e-02 1.18413888e-01 1.03392266e-01
+ 1.04446197e+00 2.27534696e-02 6.59209937e-02 2.70043258e-02
+ 1.85971279e-02 9.51433275e-03 1.22318938e-02 2.01565009e-02
+ 2.48354021e-02 2.28882842e-02 1.73794497e-02 1.82278678e-02
+ 4.30854112e-02 3.11755966e-02 8.11455864e-03 8.91937092e-02
+ 8.90593883e-03 1.44786965e-02 4.89403047e-02 6.23093452e-03
+ 6.90563768e-03 1.17200918e-01 6.43754840e-01 7.41702735e-01
+ 2.31621099e+00 4.71422933e-02 3.83710414e-02 2.95227058e-02
+ 4.79350500e-02 1.75595190e-02 1.32020265e-02 3.25362245e-03
+ 1.90457366e-02 4.53751301e-03 3.61109409e-03 4.91413307e+00
+ 1.22575939e-01 4.90375422e-02 2.46051937e-01 8.01277347e-03
+ 4.73676547e-02 2.70301867e-02 7.50700161e-02 3.07481837e+00
+ 4.81092006e-01 8.68075415e-02 6.88811094e-02 2.97592785e-02
+ 6.28368184e-02 4.80942838e-02 5.34894131e-02 5.78556918e-02
+ 4.04734910e-02 3.81998196e-02 4.28588055e-02 4.06922586e-02
+ 1.66816618e-02 6.60776049e-02 1.49038639e-02 1.70574367e-01
+ 2.00971380e-01 3.58018801e-02 4.84837562e-01 7.71395937e-02
+ 1.76507568e+00 1.85196370e-01 5.17272651e-01 5.12122154e-01
+ 8.79664347e-02 1.20172039e-01 5.66633403e-01 7.86659867e-03
+ 2.47672722e-02 1.12046972e-02 2.44551692e-02 1.64839569e-02
+ 7.84585625e-03 2.42732354e-02 1.84706300e-02 1.05559165e-02
+ 9.04538017e-03 1.06012290e-02 5.62267378e-02 4.40621674e-02
+ 2.57858001e-02 7.64515297e-03 1.11149205e-02 9.21036676e-03
+ 2.79696416e-02 7.51621788e-03 6.86303806e-03 2.25103974e+00
+ 3.66653912e-02 1.73553512e-01 2.59325534e-01 6.67742267e-03
+ 3.93761657e-02 2.31857616e-02 1.15564819e-02 2.11854298e-02
+ 2.21232753e-02 1.69678718e-01 2.63659269e-01 5.55207193e-01
+ 2.81453192e-01 1.47968054e-01 7.37090826e-01 4.38514590e-01
+ 2.90736914e-01 8.13461900e-01 2.18136758e-02 6.82734102e-02
+ 2.11055223e-02 3.80656449e-03 8.98836367e-03 1.39076614e+01
+ 1.28631577e-01 4.38320071e-01 5.08987345e-02 6.37549534e-02
+ 6.78239763e-02 5.08229971e-01 2.45462433e-01 6.48463815e-02
+ 2.01707482e-01 7.26122782e-02 6.70178890e-01 6.65917337e-01
+ 5.69530204e-02 8.16897675e-03 9.81370173e-03 1.35130538e-02
+ 8.33848398e-03 3.63958627e-02 2.34562159e-02 1.55059407e-02
+ 1.13640092e-02 1.48766134e-02 3.43845747e-02 5.41134514e-02
+ 4.80697397e-03 5.25276698e-02 9.59206000e-03 6.33236289e-01
+ 5.68272591e-01 1.42574638e-01 3.01208735e-01 1.57849073e-01
+ 5.86549342e-01 4.52965081e-01 5.04605591e-01 1.50199819e+00
+ 3.71213369e-02 4.08500731e-02 3.25857624e-02 1.95052885e-02
+ 4.60001938e-02 1.10288234e-02 1.49043044e-02 1.49951437e-02
+ 1.18298195e-02 2.50098053e-02 2.03777831e-02 1.80753954e-02
+ 3.10756229e-02 1.23619661e-02 1.29493430e-01 2.70253159e-02
+ 9.38789248e-02 1.54851764e-01 4.83771116e-02 1.26748150e-02
+ 1.79744661e-02 1.96748916e-02 4.83274693e-03 3.04873195e-02
+ 2.80461591e-02 1.87277999e-02 4.60402407e-02 2.98647713e-02
+ 8.31676796e-02 9.72295702e-02 2.37555634e-02 7.05236197e-01
+ 7.87074864e-02 2.33746804e-02 1.89008750e-02 3.20445076e-02
+ 2.41464004e-02 2.66718715e-02 3.08192391e-02 3.02483495e-02
+ 4.62934375e-02 2.70398296e-02 4.86756414e-02 4.88418303e-02
+ 1.37352888e-02 7.35204592e-02 2.39255447e-02 1.16855413e-01
+ 4.24018025e-01 1.18995287e-01 8.99754539e-02 3.95059586e-01
+ 6.30046606e-01 6.14928007e-01 5.90873241e-01 5.16873002e-01
+ 3.38992625e-02 4.05770801e-02 1.02740098e-02 4.48355265e-02
+ 2.00356748e-02 1.57503277e-01 1.76973924e-01 1.20563045e-01
+ 5.01207113e-02 1.66098225e+00 4.06253904e-01 3.71856868e-01
+ 2.34777987e-01 2.15428755e-01 1.55946255e-01 1.10188805e-01
+ 2.48425031e+00 1.84003972e-02 2.12584987e-01 1.79275498e-02
+ 2.22385656e-02 1.66906435e-02 5.32806851e-03 2.21877564e-02
+ 4.72230949e-02 5.77399805e-02 3.70939434e-01 1.01224948e-02
+ 5.58630884e-01 1.06167421e-01 1.02927577e+00 4.07077849e-01
+ 2.00818032e-01 1.16783520e-02 5.28734876e-03 3.28770187e-03
+ 3.50068347e-03 9.97890718e-03 6.61190040e-03 9.12619289e-03
+ 3.66755296e-03 4.92716441e-03 3.63316052e-02 2.52550952e-02
+ 1.27217054e-01 7.60739326e-01 8.41259122e-01 6.72541857e-02
+ 3.23171169e-02 4.13268805e-02 1.54707721e-02 2.19200030e-02
+ 2.95897964e-02 6.68226928e-02 5.24902642e-02 6.71477541e-02
+ 3.17962803e-02 2.45923325e-02 1.14892013e-02 1.66353825e-02
+ 1.24528229e-01 2.69008223e-02 2.85461098e-02 3.82010378e-02
+ 7.26950020e-02 3.62225138e-02 3.27399112e-02 3.25346105e-02
+ 4.13157307e-02 5.61884902e-02 1.64109170e-01 1.38675064e-01
+ 1.20059401e-02 1.34778515e-01 8.29212368e-02 2.20156666e-02
+ 1.58404298e-02 1.43150035e-02 1.17240483e-02 2.84756478e-02
+ 2.54330747e-02 2.16177776e-02 3.74137573e-02 1.35076102e-02
+ 4.41169664e-02 2.05106400e-02 3.11620665e+00 6.49786472e-01
+ 1.31315766e-02 2.06868038e-01 5.12633510e-02 3.81357260e-02
+ 4.47600754e-03 4.01578844e-02 2.89519262e-02 7.37523735e-02
+ 2.99508646e-02 1.73562020e-02]
+after=[3.96746723e-03 2.10222173e-02 2.67013520e-01 3.14668752e-02
+ 1.31191567e-01 9.72139463e-03 1.32275335e-02 1.37256179e-02
+ 1.01794899e-02 3.55120823e-02 1.79366898e-02 1.32468296e-02
+ 3.32756825e-02 1.50121208e-02 1.90273188e-02 2.33555064e-02
+ 1.46909605e-03 6.20211009e-03 1.68472938e-02 4.44404781e-02
+ 1.04546942e-01 1.91316649e-01 1.06743537e-02 1.44697905e+00
+ 4.48150821e-02 6.54537106e+00 7.99989477e-02 5.87585755e-03
+ 3.59232770e-03 9.10642277e-03 5.50807547e-03 7.22932529e+00
+ 2.81162579e-02 1.76302381e-02 4.01910357e-02 1.39404228e-02
+ 1.54616125e-02 2.76332855e-01 3.27015370e-02 4.15657580e-01
+ 4.46226954e-01 1.98899269e-01 1.18550979e-01 3.42079848e-01
+ 4.23787199e-02 3.78293209e-02 8.11542571e-02 1.35903778e-02
+ 1.23439236e-02 4.54322435e-03 3.94456424e-02 5.90494931e-01
+ 4.12777029e-02 3.73706892e-02 2.41368696e-01 9.85650439e-03
+ 1.15053300e-02 6.51433393e-02 2.56281406e-01 9.83060449e-02
+ 1.16233721e-01 1.23180468e-02 1.57852158e-01 1.02400715e-02
+ 1.07202670e-02 1.97135463e-01 9.67465639e-02 1.24289608e+00
+ 2.67799115e+00 5.34697250e-02 1.22340703e-02 8.85223690e-03
+ 8.06237534e-02 5.28959483e-02 1.33304400e-02 3.53796557e-02
+ 6.08777665e-02 1.00532556e-02 1.22935893e-02 2.31242683e-02
+ 5.46043730e+00 1.25922188e-01 7.81622946e-01 3.98594923e-02
+ 1.81437004e-02 3.08401939e-02 4.77810437e-03 2.35401606e-03
+ 2.70274212e-03 1.55629814e+00 1.03992188e+00 1.57713547e-01
+ 2.65155286e-01 8.69049355e-02 3.20192099e-01 6.98919392e+00
+ 2.10743427e-01 5.18903509e-02 5.38267521e-03 3.06669921e-02
+ 4.68347594e-03 5.38557349e-03 1.32713225e-02 1.02069564e-02
+ 2.40975283e-02 5.10082161e-03 8.64565670e-01 2.42932327e-02
+ 2.19911523e-02 3.49389687e-02 1.92416728e-01 8.87461975e-02
+ 1.11599714e-02 2.10805275e-02 1.28585119e-02 4.70682718e-02
+ 4.67863940e-02 3.51009071e-02 3.63271944e-02 1.03052640e-02
+ 1.62546504e-02 2.33726520e-02 1.02907442e-01 3.52273248e-02
+ 1.46584168e-01 4.60398681e-02 6.30257800e-02 8.41909721e-02
+ 7.42786741e+00 2.34386235e-01 3.57511818e-01 4.34945077e-02
+ 1.16015244e-02 4.65663150e-02 5.00832871e-02 1.24315470e-02
+ 1.61185544e-02 2.64906529e-02 5.70309861e-03 3.55067141e-02
+ 5.98904312e-01 3.58322263e-01 2.26060891e+00 7.30173826e-01
+ 1.18221082e-01 7.28914468e-03 1.86337566e-03 3.64184310e-03
+ 1.89650210e-03 2.52602668e-03 3.90629284e-03 3.36973974e-03
+ 2.92837596e-03 2.85708602e-03 4.72069308e-02 1.37819007e-01
+ 4.31949735e-01 1.75263435e-02 5.27220905e-01 1.11356890e-02
+ 9.86345857e-03 4.63768281e-03 8.53780098e-03 3.78984585e-03
+ 7.43366871e-03 3.84998997e-03 3.72546492e-03 7.43602961e-03
+ 3.12428847e-02 1.76172368e-02 1.32102128e-02 1.45748695e-02
+ 4.02462855e-02 1.37655279e-02 3.04881707e-02 3.31052355e-02
+ 1.54871354e-02 1.10363030e+00 3.65704112e-02 1.05107054e-01
+ 6.32446170e-01 1.55512718e-02 2.46150102e-02 6.87735081e-02
+ 7.14751720e-01 1.80738624e-02 7.60496184e-02 3.34650464e-02
+ 1.56150414e-02 4.35687229e-03 1.93183590e-02 9.99513641e-03
+ 1.31650371e-02 1.59797855e-02 1.82597768e-02 1.21054305e-02
+ 3.12929675e-02 1.78684145e-02 9.84599628e-03 1.11681327e-01
+ 8.59454088e-03 8.78327712e-03 3.10234632e-02 4.00958210e-03
+ 4.66406904e-03 7.77784809e-02 4.23252851e-01 4.78525013e-01
+ 1.64553726e+00 2.93527953e-02 4.74431552e-02 2.01993465e-01
+ 1.80733070e-01 1.64241251e-02 2.04878505e-02 7.71081867e-03
+ 3.01043782e-02 3.21433973e-03 7.20902765e-03 6.24034882e+00
+ 1.45000517e-01 6.90613985e-02 5.53897738e-01 7.11826514e-03
+ 5.68820611e-02 1.19150035e-01 1.83640465e-01 3.04307103e+00
+ 5.01007557e-01 5.17941266e-02 3.61487307e-02 1.99868847e-02
+ 4.13702391e-02 2.90156864e-02 3.32646742e-02 3.75726335e-02
+ 2.09047217e-02 2.59214509e-02 3.79448421e-02 9.58029702e-02
+ 2.08538175e-01 9.91170704e-02 5.05800843e-02 1.41603827e-01
+ 1.32407710e-01 2.96642687e-02 5.82028925e-01 6.32491708e-02
+ 1.57036400e+00 1.59641162e-01 1.30874169e+00 7.43723273e-01
+ 2.84772217e-02 1.20634526e-01 1.50729966e+00 4.56412137e-03
+ 2.49218903e-02 2.43653525e-02 4.74241674e-02 1.93159003e-02
+ 1.89909711e-02 8.02452303e-03 2.36210693e-02 7.92954862e-03
+ 2.11796761e-02 1.87032986e-02 4.95977215e-02 2.00242512e-02
+ 1.93370320e-02 8.81590508e-03 9.50013939e-03 7.71290390e-03
+ 2.98359897e-02 7.22589483e-03 6.45427173e-03 2.31514335e+00
+ 3.04907802e-02 2.20243007e-01 2.29164109e-01 5.83700184e-03
+ 8.40691179e-02 8.68578926e-02 3.16221789e-02 4.06894386e-02
+ 5.06444834e-02 2.77758986e-01 3.20753843e-01 7.18393028e-01
+ 3.32324743e-01 1.38417423e-01 1.25416458e+00 7.68732965e-01
+ 6.70563102e-01 2.29432631e+00 1.64494794e-02 4.85704727e-02
+ 7.15685710e-02 1.49830070e-03 3.85469059e-03 1.25496511e+01
+ 5.55701926e-02 1.32655948e-01 3.17209326e-02 2.54615061e-02
+ 2.88119279e-02 2.51500010e-01 1.19634740e-01 5.49103133e-02
+ 1.71736717e-01 2.45360266e-02 4.78497565e-01 2.98350954e+00
+ 6.32055104e-02 1.29030785e-02 8.34220648e-03 1.01625193e-02
+ 6.96526049e-03 4.90650460e-02 7.20825791e-02 1.85732618e-02
+ 1.34933190e-02 1.31118111e-02 3.32328938e-02 9.56325457e-02
+ 8.56403075e-03 4.68798168e-02 1.61762852e-02 4.44598556e-01
+ 3.80316854e-01 6.47490323e-02 2.65771896e-01 1.36756524e-01
+ 7.02531815e-01 4.09096539e-01 6.44534826e-01 3.01928711e+00
+ 1.69268828e-02 2.10013017e-02 3.09066251e-02 2.18278673e-02
+ 5.50946146e-02 6.60490803e-03 7.73234339e-03 7.45199947e-03
+ 7.01343920e-03 1.04703438e-02 1.75336488e-02 8.20023287e-03
+ 2.03120038e-02 7.86008220e-03 3.07654291e-01 1.37478495e-02
+ 1.86734535e-02 4.50469047e-01 6.40569031e-02 6.18990511e-03
+ 9.87841655e-03 9.00115445e-03 2.37509934e-03 4.96855639e-02
+ 3.08596343e-02 1.40745956e-02 1.93009619e-02 1.07616549e-02
+ 1.92410350e-02 1.58249233e-02 9.38882306e-03 1.24765122e+00
+ 7.92021528e-02 3.30470987e-02 1.58514157e-02 1.79221649e-02
+ 1.81922410e-02 1.70141328e-02 2.29695681e-02 2.71883849e-02
+ 3.02680358e-02 1.59334876e-02 4.56622653e-02 1.21137664e-01
+ 7.13953674e-02 1.16359547e-01 6.78346977e-02 8.97049010e-02
+ 3.04689288e-01 7.90532455e-02 1.11385465e-01 4.69053417e-01
+ 7.61241972e-01 4.32576239e-01 1.28090656e+00 9.10820544e-01
+ 2.29375754e-02 3.02591752e-02 3.93526722e-03 3.01169120e-02
+ 1.61661077e-02 7.02271760e-02 1.36838496e-01 3.48155200e-02
+ 2.35223882e-02 1.41375875e+00 1.91742286e-01 2.35994205e-01
+ 1.25776872e-01 5.45904115e-02 3.44096273e-02 1.74933016e-01
+ 4.24561024e+00 1.07793994e-02 1.31326094e-01 2.17364356e-02
+ 8.49913210e-02 3.50157097e-02 1.14666196e-02 6.37498274e-02
+ 1.01757534e-01 1.21813774e+00 7.61923313e-01 2.84577701e-02
+ 2.15524361e-01 3.44918966e-02 1.49270642e+00 3.10685426e-01
+ 2.21272901e-01 4.48240899e-03 2.87817372e-03 1.63012615e-03
+ 4.04138025e-03 1.12832170e-02 6.72500813e-03 8.94649792e-03
+ 1.18057458e-02 2.79623270e-03 1.39756314e-02 5.21046594e-02
+ 5.94277143e-01 9.64686394e-01 1.14139879e+00 2.41858974e-01
+ 8.00489113e-02 8.77893716e-02 3.04099917e-02 4.11576852e-02
+ 7.48604536e-02 1.10396437e-01 2.27680936e-01 1.60248712e-01
+ 6.30438281e-03 8.76142457e-03 4.23992332e-03 1.77466664e-02
+ 1.34596154e-01 2.33235545e-02 2.67917737e-02 1.75897889e-02
+ 4.70591426e-01 3.84553149e-02 2.33980659e-02 3.01012713e-02
+ 9.10898969e-02 7.94041976e-02 6.48496091e-01 1.38976336e+00
+ 9.22484882e-03 2.16973603e-01 7.02349469e-02 3.80318076e-03
+ 2.76095793e-03 2.28744256e-03 5.39581943e-03 2.97021531e-02
+ 1.43079879e-02 8.68794322e-03 3.00897751e-02 3.12373345e-03
+ 3.60771753e-02 4.18795608e-02 7.45733738e+00 8.25404286e-01
+ 7.14643858e-03 9.02011573e-01 1.63556725e-01 9.27898735e-02
+ 8.80386494e-03 2.32504934e-01 8.13687742e-01 9.41112697e-01
+ 7.84587190e-02 2.98739076e-02]
+
+gabaergic_amacrine_cells.ac_tau_rise before=[2.3777369e-01 1.1314115e-01 2.3808954e-02 4.4056013e-01 8.9217827e-02
+ 2.0539047e-02 7.7711716e-02 5.2676547e-02 7.1364850e-01 4.6897929e-02
+ 1.2114093e-01 1.4109994e+00 3.7404859e-01 1.5937033e-01 3.6110036e-02
+ 1.0891673e-01 4.5142174e-01 5.7554156e-01 2.5908610e-01 6.3794710e-02
+ 8.8381678e-01 2.4359329e-02 3.4426677e-01 1.6064240e-01 6.8691140e-01
+ 3.0356866e-01 1.9048443e-01 7.4419534e-01 3.5613593e-01 4.2160179e-02
+ 7.0476246e-01 3.1658506e-01 3.9596260e-02 3.9669600e-01 1.3954508e-03]
+after=[0.26147032 0.11258833 0.02972976 1.7415067  0.08625241 0.01018823
+ 0.09114815 0.03817828 0.06299564 0.03038367 0.14589113 0.7866749
+ 0.53675145 0.17515527 0.02272337 0.01905623 0.22061333 1.0420595
+ 2.1158838  0.13267942 0.46335846 0.01811266 0.20832811 0.24852309
+ 1.8711437  1.4100127  0.12972538 1.550185   0.3951452  0.05259227
+ 0.6437408  0.46355724 0.02401657 0.6522915  0.00212376]
+
+gabaergic_amacrine_cells.ac_tau_decay before=[0.1683072  0.02764605 0.01269884 0.5192506  0.46579105 0.01997838
+ 0.01675199 0.04469988 0.6275079  0.01345527 0.05637028 0.7473472
+ 0.21469504 0.07637647 0.0251284  0.1387712  0.42108786 0.45511356
+ 0.09762357 0.09235001 0.51059353 0.00453872 0.10085694 0.14953464
+ 0.49055752 0.16390345 0.18007666 0.56010526 0.30621466 0.01304697
+ 0.35105222 0.22858806 0.046539   0.35715    0.01983484]
+after=[0.19083007 0.02729303 0.01397674 2.0363212  0.48783094 0.02402189
+ 0.01967701 0.03036273 0.05971603 0.00921613 0.06134436 0.3206622
+ 0.25242496 0.09080526 0.01660774 0.15623106 0.20417374 0.8218169
+ 0.78745884 0.13108617 0.2689233  0.0034251  0.06316753 0.22570279
+ 1.3892502  0.5800267  0.12602344 1.1700857  0.20838848 0.01558163
+ 0.31191617 0.2989977  0.02718565 0.21094945 0.02099856]
+
+gabaergic_amacrine_cells.ac_sigmoid_slope before=[ 6.1965184   0.67030555  1.5444634   0.13827574  3.638012    2.9311142
+  1.1251616   0.35480016  0.17889498 20.99051    32.193623    0.24012986
+  3.976658    0.5486757  52.29427    12.564249   85.91174     6.477779
+  1.338378   18.277546    5.603966    1.5928913   0.32358068  8.090954
+  4.7182026   0.68104315  0.49790838 12.851543    3.4247053   4.368775
+  8.967072    2.8453603   0.31067026  0.23685206  8.217455  ]
+after=[ 6.550899    3.2933178  20.921516    0.30335528  8.034563    1.1010042
+  1.2314342   0.34250143  0.08242761 26.67842    18.322607    0.30375606
+  9.398825    0.17196895 32.777107   10.918414   67.91079     9.011447
+  0.89724916 24.438963    9.952924    1.4563376   0.7888591  20.159328
+  4.985454    6.1347713   0.71247655 50.781673    4.8030224   5.737014
+ 16.205814    5.0252237   0.28191102  0.73948836  9.297727  ]
+
+gabaergic_amacrine_cells.ac_sigmoid_offset before=[1.7150704  0.24112254 0.8758452  0.91651267 0.13609923 1.2456267
+ 1.3395823  1.0283574  0.81846404 1.0293291  1.5221366  0.13201262
+ 2.311949   0.90180194 2.353205   2.0619824  0.9836335  0.59972245
+ 2.4022462  2.6162586  0.51287746 0.8240914  0.79751056 0.27253217
+ 1.9287077  0.5800097  0.2083043  0.6760315  0.93251216 1.7332102
+ 1.3188616  0.30348322 0.8825623  0.08624673 2.4856608 ]
+after=[ 2.168351    1.4459788   1.4935317   0.8683818  -0.66197836  1.0191187
+  1.4707737   0.911855    0.7592356   1.0757794   1.1664903   0.27210945
+  2.2429936   0.7814661   2.7419152   1.7087197   1.0763421   0.62621313
+  1.8946826   2.6331096  -0.2319394   1.1681981   0.33998296  0.6357478
+  2.0133073   0.7978598   0.37308073  0.74813384  1.822632    1.2340095
+  1.4044989   0.6363949   0.7315033   0.3870034   1.7837445 ]
+
